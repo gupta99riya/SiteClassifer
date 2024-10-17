@@ -1,0 +1,8 @@
+selenium
+beautifulsoup4
+requests
+streamlit
+tiktoken
+langchain-groq
+langchain
+groq
