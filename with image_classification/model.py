@@ -38,8 +38,8 @@ def invoke_model(image, prompt,api_key =API_KEY,model_name= MODEL_NAME):
                 {
                     "role": "user",
                     "content": [
-                        {"type": "text", "text": prompt},
-                        image_content,
+                        {"type": "text", "text": prompt}
+           #            , image_content,
                     ],
                 }
             ],

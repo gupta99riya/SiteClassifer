@@ -12,17 +12,27 @@ from selenium.webdriver.chrome.options import Options
 
 from urllib.parse import urlparse
 
-# # Initialize the Selenium WebDriver
-options = Options()
-options.add_argument('--headless')
-options.add_argument('--no-sandbox')
-options.add_argument('--disable-dev-shm-usage')
+# # # Initialize the Selenium WebDriver
+# options = Options()
+# options.add_argument('--headless')
+# options.add_argument('--no-sandbox')
+# options.add_argument('--disable-dev-shm-usage')
 
-# driver = webdriver.Chrome(executable_path = '/usr/bin/chromedriver', chrome_options  = options)
-driver = webdriver.Chrome(options=options)
+# # driver = webdriver.Chrome(executable_path = '/usr/bin/chromedriver', chrome_options  = options)
+# driver = webdriver.Chrome(options=options)
 
 
 def take_screenshot(url_name):
+
+# # Initialize the Selenium WebDriver
+    options = Options()
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+
+    # driver = webdriver.Chrome(executable_path = '/usr/bin/chromedriver', chrome_options  = options)
+    driver = webdriver.Chrome(options=options)
+
     try:
         current_time = datetime.now()
         start_time = time.time()
@@ -42,21 +52,15 @@ def take_screenshot(url_name):
         print("Successfully extracted the screenshot of url:", ss_name," start time:",current_time)
         end_time = time.time()
         driver.save_screenshot(path)
+        driver.quit()
         return path
     except Exception as e:
         print(f"Failed to extract screenshot for {url_name}")
+        driver.quit()
         return None
+# url = "canadapharmacymedonline.com"
+# image_path = take_screenshot(url)
+# print(image_path)
 
-
-# df = pd.read_excel("MC_w_text.xlsx",sheet_name= "Sheet1")
-
-url = "canadapharmacymedonline.com"
-# df = pd.DataFrame()
-# df['url'] = url
-# df['image_path'] = df['url'].apply(take_screenshot)
-# df.to_csv("Main_data.csv",index=False)
-image_path = take_screenshot(url)
-print(image_path)
-driver.quit()
 
 
