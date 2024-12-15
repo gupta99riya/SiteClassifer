@@ -1,0 +1,2083 @@
+url,Category,path,size,language,tokens,pred,pred_label,tp,image_path
+canadapharmacymedonline.com,Online Pharmacies,scrape_files_final/Online Pharmacies/canadapharmacymedonline_com.txt,6269,en,2647,"{
+  'category': 'Online pharmacies'
+}",Online pharmacies,1,ss/canadapharmacymedonline.png
+usmedskart.com,Online Pharmacies,scrape_files_final/Online Pharmacies/usmedskart_com.txt,13028,en,4341,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/usmedskart.png
+medplusmart.com,Online Pharmacies,scrape_files_final/Online Pharmacies/medplusmart_com.txt,17794,en,5537,{'category': 'Online pharmacies'},Online pharmacies,1,ss/medplusmart.png
+macbach.com,Other,scrape_files_final/Other/macbach_com.txt,11654,en,2753,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/macbach.png
+canadianmed.net,Online Pharmacies,scrape_files_final/Online Pharmacies/canadianmed_net.txt,6003,en,2095,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/canadianmed.png
+apollopharmacy.in,Online Pharmacies,scrape_files_final/Online Pharmacies/apollopharmacy_in.txt,24313,en,7156,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/apollopharmacy.png
+cheapillsonline.com,Online Pharmacies,scrape_files_final/Online Pharmacies/cheapillsonline_com.txt,6660,en,2722,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/cheapillsonline.png
+worldhealthsupplier.com,Online Pharmacies,scrape_files_final/Online Pharmacies/worldhealthsupplier_com.txt,14664,en,4501,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,
+americanpharm.net,Online Pharmacies,scrape_files_final/Online Pharmacies/americanpharm_net.txt,30376,en,"[9379, 3954]","{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/americanpharm.png
+alledstar.com,Online Pharmacies,scrape_files_final/Online Pharmacies/alledstar_com.txt,2596,en,930,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/alledstar.png
+onlinepharmacyshop.biz,Online Pharmacies,scrape_files_final/Online Pharmacies/onlinepharmacyshop_biz.txt,17708,en,7301,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/onlinepharmacyshop.png
+truemeds.in,Online Pharmacies,scrape_files_final/Online Pharmacies/truemeds_in.txt,22732,en,6366,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/truemeds.png
+netmeds.com,Online Pharmacies,scrape_files_final/Online Pharmacies/netmeds_com.txt,9091,en,3221,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/netmeds.png
+1mg.com,Online Pharmacies,scrape_files_final/Online Pharmacies/1mg_com.txt,13901,id,6104,{'category': 'Online pharmacies'},Online pharmacies,1,ss/1mg.png
+canadianbestpills.com,Online Pharmacies,scrape_files_final/Online Pharmacies/canadianbestpills_com.txt,7130,en,1729,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/canadianbestpills.png
+good-pills.com,Online Pharmacies,scrape_files_final/Online Pharmacies/good-pills_com.txt,19358,en,"[9055, 7155]","{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/good-pills.png
+medkart.in,Online Pharmacies,scrape_files_final/Online Pharmacies/medkart_in.txt,9755,en,2700,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/medkart.png
+onlineantibiotics.net,Online Pharmacies,scrape_files_final/Online Pharmacies/onlineantibiotics_net.txt,9920,en,3065,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/onlineantibiotics.png
+bestpharmacyinusa.com,Online Pharmacies,scrape_files_final/Online Pharmacies/bestpharmacyinusa_com.txt,6903,en,2016,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/bestpharmacyinusa.png
+buyabsolutesteroids.com,Online Pharmacies,scrape_files_final/Online Pharmacies/buyabsolutesteroids_com.txt,1885,en,718,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/buyabsolutesteroids.png
+medipk.com,Online Pharmacies,scrape_files_final/Online Pharmacies/medipk_com.txt,13502,en,5368,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/medipk.png
+noprescription-online-pharmacy24.com,Online Pharmacies,scrape_files_final/Online Pharmacies/noprescription-online-pharmacy24_com.txt,5347,en,1760,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/noprescription-online-pharmacy24.png
+buy-steroids.online,Online Pharmacies,scrape_files_final/Online Pharmacies/buy-steroids_online.txt,15666,en,4418,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/buy-steroids.png
+drugsforhealth.org,Online Pharmacies,scrape_files_final/Online Pharmacies/drugsforhealth_org.txt,19373,en,"[9058, 7151]","{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/drugsforhealth.png
+official-drugstore.com,Online Pharmacies,scrape_files_final/Online Pharmacies/official-drugstore_com.txt,11887,en,4182,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/official-drugstore.png
+medibuddy.in,Online Pharmacies,scrape_files_final/Online Pharmacies/medibuddy_in.txt,1732,en,683,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""sell medications""],
+        ""Firearms"": [""access firearms""],
+        ""Charity"": [""non-profit"", ""raise funds"", ""donation options""],
+        ""Cryptocurrency"": [""digital currencies"", ""Bitcoin"", ""alternative currencies""],
+        ""Gambling"": [""gambling activities""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""cultivation"", ""production"", ""distribution"", ""sales""],
+        ""Massage parlors"": [""massage"", ""spa services""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call centers""],
+        ""Direct Sales"": [""sell products directly"", ""eCommerce"", ""independent sales representatives""]
+    }",Information Not Enough,0,ss/medibuddy.png
+pharmeasy.in,Online Pharmacies,scrape_files_final/Online Pharmacies/pharmeasy_in.txt,25422,en,7880,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""online pharmacy""],
+        ""Firearms"": [""firearms"", ""guns""],
+        ""Charity"": [""non-profit"", ""donation"", ""fundraising""],
+        ""Cryptocurrency"": [""Bitcoin"", ""digital currency""],
+        ""Gambling"": [""gambling"", ""casino"", ""betting""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""cultivation"", ""production"", ""distribution"", ""sales""],
+        ""Massage parlors"": [""massage"", ""spa"", ""services""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call center""],
+        ""Direct Sales"": [""direct sales"", ""eCommerce"", ""independent sales representatives""]
+    }",Information Not Enough,0,ss/pharmeasy.png
+internationalpharm.net,Online Pharmacies,scrape_files_final/Online Pharmacies/internationalpharm_net.txt,11900,en,4184,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/internationalpharm.png
+cheapantibioticsonline.com,Online Pharmacies,scrape_files_final/Online Pharmacies/cheapantibioticsonline_com.txt,1407,en,676,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/cheapantibioticsonline.png
+themexicanpharmacyonline.com,Online Pharmacies,scrape_files_final/Online Pharmacies/themexicanpharmacyonline_com.txt,8896,en,3296,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/themexicanpharmacyonline.png
+wooripharmacy.com,Online Pharmacies,scrape_files_final/Online Pharmacies/wooripharmacy_com.txt,6902,en,1948,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/wooripharmacy.png
+premier-dream.co,Online Pharmacies,scrape_files_final/Online Pharmacies/premier-dream_co.txt,6154,en,2056,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/premier-dream.png
+pharmaciedesdrakkars.com,Online Pharmacies,scrape_files_final/Online Pharmacies/pharmaciedesdrakkars_com.txt,16515,fr,5000,"{
+  'category': 'Online pharmacies'
+}",Online pharmacies,1,ss/pharmaciedesdrakkars.png
+mtpkit24.com,Online Pharmacies,scrape_files_final/Online Pharmacies/mtpkit24_com.txt,9642,en,2497,"{
+  'category': 'Online pharmacies'
+}",Online pharmacies,1,ss/mtpkit24.png
+ichigocandy.com,Online adult entertainment,scrape_files_final/Online adult entertainment/ichigocandy_com.txt,4981,en,1790,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/ichigocandy.png
+beeglivesex.com,Online adult entertainment,scrape_files_final/Online adult entertainment/beeglivesex_com.txt,7603,en,2821,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/beeglivesex.png
+sexcams.plus,Online adult entertainment,scrape_files_final/Online adult entertainment/sexcams_plus.txt,7600,en,2807,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/sexcams.png
+GAMELINK.com,Online adult entertainment,scrape_files_final/Online adult entertainment/GAMELINK_com.txt,5234,en,1880,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/GAMELINK.png
+TLAVIDEO.COM,Online adult entertainment,scrape_files_final/Online adult entertainment/TLAVIDEO_COM.txt,4636,en,1530,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/TLAVIDEO.png
+FILMCO.COM,Online adult entertainment,scrape_files_final/Online adult entertainment/FILMCO_COM.txt,3127,en,1148,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/FILMCO.png
+SPUNKVIDEO.COM,Online adult entertainment,scrape_files_final/Online adult entertainment/SPUNKVIDEO_COM.txt,2747,en,1127,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/SPUNKVIDEO.png
+AUTOBOOKS.CO,Other,scrape_files_final/Other/AUTOBOOKS_CO.txt,9558,en,2334,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/AUTOBOOKS.png
+camsoda.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camsoda_com.txt,13731,en,4731,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camsoda.png
+landofvenus.com,Online adult entertainment,scrape_files_final/Online adult entertainment/landofvenus_com.txt,1706,en,716,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/landofvenus.png
+forhertube.com,Online adult entertainment,scrape_files_final/Online adult entertainment/forhertube_com.txt,17258,en,7115,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/forhertube.png
+archivebate.com,Online adult entertainment,scrape_files_final/Online adult entertainment/archivebate_com.txt,3520,en,1426,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/archivebate.png
+onscreens.me,Online adult entertainment,scrape_files_final/Online adult entertainment/onscreens_me.txt,3662,en,1900,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/onscreens.png
+showcamrips.com,Online adult entertainment,scrape_files_final/Online adult entertainment/showcamrips_com.txt,5397,en,2522,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/showcamrips.png
+camwhores.tv,Online adult entertainment,scrape_files_final/Online adult entertainment/camwhores_tv.txt,7576,en,3353,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/camwhores.png
+stripchat.global,Online adult entertainment,scrape_files_final/Online adult entertainment/stripchat_global.txt,7719,en,2860,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/stripchat.png
+chatsex.xxx,Online adult entertainment,scrape_files_final/Online adult entertainment/chatsex_xxx.txt,5666,en,1961,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/chatsex.png
+jerkmate.com,Online adult entertainment,scrape_files_final/Online adult entertainment/jerkmate_com.txt,6478,en,1966,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/jerkmate.png
+lemoncams.com,Online adult entertainment,scrape_files_final/Online adult entertainment/lemoncams_com.txt,9040,en,2924,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/lemoncams.png
+camwhores4you.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camwhores4you_com.txt,2339,en,1188,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camwhores4you.png
+camwhores.video,Online adult entertainment,scrape_files_final/Online adult entertainment/camwhores_video.txt,7756,en,3439,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/camwhores.png
+oohcams.com,Online adult entertainment,scrape_files_final/Online adult entertainment/oohcams_com.txt,20760,en,7313,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/oohcams.png
+xhomealone.com,Online adult entertainment,scrape_files_final/Online adult entertainment/xhomealone_com.txt,4925,en,2022,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/xhomealone.png
+camvideos.me,Online adult entertainment,scrape_files_final/Online adult entertainment/camvideos_me.txt,20553,en,"[8533, 4827]","{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camvideos.png
+camdownload.net,Online adult entertainment,scrape_files_final/Online adult entertainment/camdownload_net.txt,1311,en,845,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camdownload.png
+camwhoresbay.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camwhoresbay_com.txt,4285,en,1779,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camwhoresbay.png
+ucam.xxx,Online adult entertainment,scrape_files_final/Online adult entertainment/ucam_xxx.txt,7793,en,2059,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/ucam.png
+spankbanglive.com,Online adult entertainment,scrape_files_final/Online adult entertainment/spankbanglive_com.txt,7570,en,2819,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/spankbanglive.png
+fapcam.tv,Online adult entertainment,scrape_files_final/Online adult entertainment/fapcam_tv.txt,5402,en,1853,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/fapcam.png
+camsparty.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camsparty_com.txt,65933,en,"[21280, 9701]",{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/camsparty.png
+nouveaudayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/nouveaudayspa_com.txt,3778,en,1262,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/nouveaudayspa.png
+magnoliafloatspa.com,Massage Parlors,scrape_files_final/Massage Parlors/magnoliafloatspa_com.txt,1570,en,610,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/magnoliafloatspa.png
+serenityatthebeach.com,Massage Parlors,scrape_files_final/Massage Parlors/serenityatthebeach_com.txt,2093,en,807,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/serenityatthebeach.png
+terrame.com,Massage Parlors,scrape_files_final/Massage Parlors/terrame_com.txt,2959,en,987,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/terrame.png
+willowsdayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/willowsdayspa_com.txt,2250,en,802,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/willowsdayspa.png
+spagreystone.com,Massage Parlors,scrape_files_final/Massage Parlors/spagreystone_com.txt,2436,en,899,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/spagreystone.png
+soakhousespa.com,Massage Parlors,scrape_files_final/Massage Parlors/soakhousespa_com.txt,2041,en,750,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/soakhousespa.png
+spaeleve.com,Massage Parlors,scrape_files_final/Massage Parlors/spaeleve_com.txt,4173,en,1253,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/spaeleve.png
+anordicspa.com,Massage Parlors,scrape_files_final/Massage Parlors/anordicspa_com.txt,12704,en,3552,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/anordicspa.png
+adagio-spa.com,Massage Parlors,scrape_files_final/Massage Parlors/adagio-spa_com.txt,6672,en,1807,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/adagio-spa.png
+ravensnestspa.com,Massage Parlors,scrape_files_final/Massage Parlors/ravensnestspa_com.txt,1091,en,526,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/ravensnestspa.png
+homerinnandspa.com,Massage Parlors,scrape_files_final/Massage Parlors/homerinnandspa_com.txt,1408,en,599,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/homerinnandspa.png
+cloud9dayspa.net,Massage Parlors,scrape_files_final/Massage Parlors/cloud9dayspa_net.txt,8737,en,2695,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/cloud9dayspa.png
+catelynsplace.com,Massage Parlors,scrape_files_final/Massage Parlors/catelynsplace_com.txt,4619,en,1422,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/catelynsplace.png
+talonlodge.com,Massage Parlors,scrape_files_final/Massage Parlors/talonlodge_com.txt,1253,en,589,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/talonlodge.png
+akbeautifulyou.com,Massage Parlors,scrape_files_final/Massage Parlors/akbeautifulyou_com.txt,4901,en,1362,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/akbeautifulyou.png
+akfunctionalmed.com,Massage Parlors,scrape_files_final/Massage Parlors/akfunctionalmed_com.txt,1581,en,662,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/akfunctionalmed.png
+arizonagrandresort.com,Massage Parlors,scrape_files_final/Massage Parlors/arizonagrandresort_com.txt,3883,en,1304,"{
+  ""category"": ""Hotel/Resort""
+}",Hotel/Resort,0,ss/arizonagrandresort.png
+miravalarizona.com,Massage Parlors,scrape_files_final/Massage Parlors/miravalarizona_com.txt,9076,en,2236,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/miravalarizona.png
+thescottresort.com,Massage Parlors,scrape_files_final/Massage Parlors/thescottresort_com.txt,4065,en,2007,"{
+  ""category"": ""Hotel/Resort""
+}",Hotel/Resort,0,ss/thescottresort.png
+sonoranserenityspa.com,Massage Parlors,scrape_files_final/Massage Parlors/sonoranserenityspa_com.txt,3478,en,1127,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/sonoranserenityspa.png
+quapawbaths.com,Massage Parlors,scrape_files_final/Massage Parlors/quapawbaths_com.txt,2711,en,904,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/quapawbaths.png
+turtlecovespa.com,Massage Parlors,scrape_files_final/Massage Parlors/turtlecovespa_com.txt,5082,en,1431,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/turtlecovespa.png
+spabotanicahotsprings.com,Massage Parlors,scrape_files_final/Massage Parlors/spabotanicahotsprings_com.txt,5020,en,1411,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/spabotanicahotsprings.png
+hsdestinationsdayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/hsdestinationsdayspa_com.txt,4733,en,1349,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/hsdestinationsdayspa.png
+newmoonspa.com,Massage Parlors,scrape_files_final/Massage Parlors/newmoonspa_com.txt,2411,en,874,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/newmoonspa.png
+livingwellnessdayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/livingwellnessdayspa_com.txt,2838,en,978,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/livingwellnessdayspa.png
+chrysalisdayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/chrysalisdayspa_com.txt,4323,en,1201,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/chrysalisdayspa.png
+rejuvenationclinic.com,Massage Parlors,scrape_files_final/Massage Parlors/rejuvenationclinic_com.txt,2120,en,822,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/rejuvenationclinic.png
+buckstaffbaths.com,Massage Parlors,scrape_files_final/Massage Parlors/buckstaffbaths_com.txt,2061,en,763,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/buckstaffbaths.png
+spa1905.com,Massage Parlors,scrape_files_final/Massage Parlors/spa1905_com.txt,1672,en,722,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/spa1905.png
+thespaah.com,Massage Parlors,scrape_files_final/Massage Parlors/thespaah_com.txt,2578,en,895,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/thespaah.png
+thai-me.com,Massage Parlors,scrape_files_final/Massage Parlors/thai-me_com.txt,9172,en,2844,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/thai-me.png
+floatspaus.com,Massage Parlors,scrape_files_final/Massage Parlors/floatspaus_com.txt,2764,en,884,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/floatspaus.png
+suchnessspa.com,Massage Parlors,scrape_files_final/Massage Parlors/suchnessspa_com.txt,1410,en,600,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/suchnessspa.png
+solacedayspa.net,Massage Parlors,scrape_files_final/Massage Parlors/solacedayspa_net.txt,1365,en,617,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/solacedayspa.png
+avabelladayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/avabelladayspa_com.txt,4044,en,1205,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/avabelladayspa.png
+crescent-hotel.com,Massage Parlors,scrape_files_final/Massage Parlors/crescent-hotel_com.txt,5481,en,1538,"{
+  ""category"": ""Hotel/Resort""
+}",Hotel/Resort,0,ss/crescent-hotel.png
+nuyuspas.com,Massage Parlors,scrape_files_final/Massage Parlors/nuyuspas_com.txt,5444,en,1395,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/nuyuspas.png
+ranchovalencia.com,Massage Parlors,scrape_files_final/Massage Parlors/ranchovalencia_com.txt,7671,en,2062,"{
+  ""category"": ""Luxury Resort & Spa""
+}",Luxury Resort & Spa,0,ss/ranchovalencia.png
+goldendoor.com,Massage Parlors,scrape_files_final/Massage Parlors/goldendoor_com.txt,2199,en,799,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/goldendoor.png
+cadayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/cadayspa_com.txt,7328,en,1886,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/cadayspa.png
+kellysspa.com,Massage Parlors,scrape_files_final/Massage Parlors/kellysspa_com.txt,5933,en,1656,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/kellysspa.png
+wispausa.com,Massage Parlors,scrape_files_final/Massage Parlors/wispausa_com.txt,2797,en,991,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/wispausa.png
+goldenhaven.com,Massage Parlors,scrape_files_final/Massage Parlors/goldenhaven_com.txt,2477,en,839,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/goldenhaven.png
+the-spring.com,Massage Parlors,scrape_files_final/Massage Parlors/the-spring_com.txt,2516,en,887,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/the-spring.png
+oceandayspa.com,Massage Parlors,scrape_files_final/Massage Parlors/oceandayspa_com.txt,3598,en,1298,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/oceandayspa.png
+purpleorchid.com,Massage Parlors,scrape_files_final/Massage Parlors/purpleorchid_com.txt,6579,en,1740,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/purpleorchid.png
+mxspa.com,Massage Parlors,scrape_files_final/Massage Parlors/mxspa_com.txt,7012,en,1852,"{
+  'category': 'Massage parlors'
+}",Massage parlors,1,ss/mxspa.png
+spaanjali.com,Massage Parlors,scrape_files_final/Massage Parlors/spaanjali_com.txt,2803,en,1081,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/spaanjali.png
+ohanacannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/ohanacannabis_com.txt,17420,en,4144,"{
+  'category': 'Marijuana-related businesses'
+}",Marijuana related businesses,1,ss/ohanacannabis.png
+sweetflower.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/sweetflower_com.txt,4146,en,1706,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/sweetflower.png
+unionstationsf.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/unionstationsf_com.txt,2516,en,810,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/unionstationsf.png
+rootedcannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/rootedcannabis_com.txt,3464,en,1097,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/rootedcannabis.png
+enjoymintdelivered.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/enjoymintdelivered_com.txt,3159,en,1009,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/enjoymintdelivered.png
+unionsquaretravelagency.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/unionsquaretravelagency_com.txt,13081,en,5025,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/unionsquaretravelagency.png
+josephineandbillies.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/josephineandbillies_com.txt,7223,en,1903,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/josephineandbillies.png
+oasiscannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/oasiscannabis_com.txt,6866,en,2005,"{
+  'category': 'Marijuana-related businesses'
+}",Marijuana related businesses,1,ss/oasiscannabis.png
+takomawellness.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/takomawellness_com.txt,6747,en,1802,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/takomawellness.png
+marymodern.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/marymodern_com.txt,2994,en,929,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/marymodern.png
+threetreesdelivery.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/threetreesdelivery_com.txt,4392,en,1575,"{
+  'category': 'Marijuana-related businesses'
+}",Marijuana related businesses,1,ss/threetreesdelivery.png
+greenwolfcannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/greenwolfcannabis_com.txt,12055,en,3465,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/greenwolfcannabis.png
+greendragon.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/greendragon_com.txt,2380,en,997,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/greendragon.png
+drgreenthumbsbrand.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/drgreenthumbsbrand_com.txt,7702,en,1982,"{
+  'category': 'Marijuana-related businesses'
+}",Marijuana related businesses,1,ss/drgreenthumbsbrand.png
+thegreenroomcannabis.ca,Marijuana related businesses,scrape_files_final/Marijuana related businesses/thegreenroomcannabis_ca.txt,1381,en,609,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/thegreenroomcannabis.png
+thrivenevada.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/thrivenevada_com.txt,13216,en,3554,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/thrivenevada.png
+summitdispensary.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/summitdispensary_com.txt,2894,en,919,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/summitdispensary.png
+marchandash.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/marchandash_com.txt,7326,en,3014,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/marchandash.png
+justbreathelife.org,Marijuana related businesses,scrape_files_final/Marijuana related businesses/justbreathelife_org.txt,67146,en,"[20310, 8713]",{'category': 'Marijuana-related businesses'},Marijuana related businesses,1,ss/justbreathelife.png
+lakelifefarms.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/lakelifefarms_com.txt,12365,en,5192,"{
+  'category': 'Marijuana-related businesses'
+}",Marijuana related businesses,1,ss/lakelifefarms.png
+traderoots.buzz,Marijuana related businesses,scrape_files_final/Marijuana related businesses/traderoots_buzz.txt,10089,en,3715,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/traderoots.png
+newdia.co,Marijuana related businesses,scrape_files_final/Marijuana related businesses/newdia_co.txt,6809,en,1821,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/newdia.png
+humbleroot.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/humbleroot_com.txt,10136,en,2853,"{
+  'category': 'Marijuana-related businesses'
+}",Marijuana related businesses,1,ss/humbleroot.png
+mmdshops.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/mmdshops_com.txt,7521,en,2060,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/mmdshops.png
+visittreehousema.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/visittreehousema_com.txt,8128,en,3034,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/visittreehousema.png
+lacannabisco.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/lacannabisco_com.txt,6400,en,2137,"{
+  'category': 'Marijuana - related businesses'
+}",Marijuana related businesses,1,ss/lacannabisco.png
+ivyhilloakland.net,Marijuana related businesses,scrape_files_final/Marijuana related businesses/ivyhilloakland_net.txt,3745,en,1230,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/ivyhilloakland.png
+thinkhighercaregiving.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/thinkhighercaregiving_com.txt,5051,en,1754,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/thinkhighercaregiving.png
+ilyfted.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/ilyfted_com.txt,1672,en,729,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/ilyfted.png
+seaweedcannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/seaweedcannabis_com.txt,2278,en,812,"{
+  'category': 'Marijuana - related businesses'
+}",Marijuana related businesses,1,ss/seaweedcannabis.png
+cannabiotix.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/cannabiotix_com.txt,4347,en,1689,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/cannabiotix.png
+trydoobie.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/trydoobie_com.txt,7583,en,2569,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/trydoobie.png
+earthmed.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/earthmed_com.txt,6956,en,2096,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/earthmed.png
+straincares.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/straincares_com.txt,5994,en,1845,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/straincares.png
+plusproducts.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/plusproducts_com.txt,3244,en,1040,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/plusproducts.png
+thetopshelfcannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/thetopshelfcannabis_com.txt,1465,en,601,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/thetopshelfcannabis.png
+flynnstoned.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/flynnstoned_com.txt,6827,en,2507,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/flynnstoned.png
+smoakland.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/smoakland_com.txt,38658,en,"[16605, 10297]",{'category': 'Marijuana-related businesses'},Marijuana related businesses,1,ss/smoakland.png
+upstate-canna.co,Marijuana related businesses,scrape_files_final/Marijuana related businesses/upstate-canna_co.txt,2735,en,893,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/upstate-canna.png
+enchantmentgrowth.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/enchantmentgrowth_com.txt,3244,en,1174,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/enchantmentgrowth.png
+coasttocoast.shop,Marijuana related businesses,scrape_files_final/Marijuana related businesses/coasttocoast_shop.txt,6012,en,1854,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/coasttocoast.png
+campfirecannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/campfirecannabis_com.txt,3148,en,1181,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/campfirecannabis.png
+greeneryspot.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/greeneryspot_com.txt,26237,en,7609,"{
+  ""category"": ""Marijuana-related businesses""
+}",Marijuana related businesses,1,ss/greeneryspot.png
+atriumcannabis.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/atriumcannabis_com.txt,1390,en,566,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/atriumcannabis.png
+chroniclb.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/chroniclb_com.txt,22278,en,6086,{'category': 'Marijuana - related businesses'},Marijuana related businesses,1,ss/chroniclb.png
+CASINOJAX.COM,Gambling,scrape_files_final/Gambling/CASINOJAX_COM.txt,10924,en,2940,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/CASINOJAX.png
+777ONFIRE.COM,Gambling,scrape_files_final/Gambling/777ONFIRE_COM.txt,15769,en,5525,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/777ONFIRE.png
+RETROBET.COM,Gambling,scrape_files_final/Gambling/RETROBET_COM.txt,9611,en,3362,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/RETROBET.png
+ROCKETSPIN.COM,Gambling,scrape_files_final/Gambling/ROCKETSPIN_COM.txt,12349,en,4425,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/ROCKETSPIN.png
+SPINJO.COM,Gambling,scrape_files_final/Gambling/SPINJO_COM.txt,11383,en,4200,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/SPINJO.png
+FORTUNEPLAY.COM,Gambling,scrape_files_final/Gambling/FORTUNEPLAY_COM.txt,10585,en,3875,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/FORTUNEPLAY.png
+21BIT.COM,Gambling,scrape_files_final/Gambling/21BIT_COM.txt,3095,en,1264,"{
+  ""category"": ""Gambling""
+}",Gambling,1,
+CASITSU.COM,Gambling,scrape_files_final/Gambling/CASITSU_COM.txt,33529,en,"[9400, 3973]","{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/CASITSU.png
+READYCASINO.COM,Gambling,scrape_files_final/Gambling/READYCASINO_COM.txt,15248,en,5484,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/READYCASINO.png
+SPADESQUEEN.COM,Gambling,scrape_files_final/Gambling/SPADESQUEEN_COM.txt,10619,en,3786,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/SPADESQUEEN.png
+boomerang-casino.com,Gambling,scrape_files_final/Gambling/boomerang-casino_com.txt,5822,en,1957,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/boomerang-casino.png
+burancasino.com,Gambling,scrape_files_final/Gambling/burancasino_com.txt,9155,en,2595,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/burancasino.png
+polestarcasino1.com,Gambling,scrape_files_final/Gambling/polestarcasino1_com.txt,11946,en,3734,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/polestarcasino1.png
+talismania3.com,Gambling,scrape_files_final/Gambling/talismania3_com.txt,6881,en,2398,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/talismania3.png
+vinylcasino3.com,Gambling,scrape_files_final/Gambling/vinylcasino3_com.txt,6718,en,1806,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/vinylcasino3.png
+powerupcasino1.com,Gambling,scrape_files_final/Gambling/powerupcasino1_com.txt,10400,en,3144,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/powerupcasino1.png
+nomini.com,Gambling,scrape_files_final/Gambling/nomini_com.txt,19430,en,5997,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/nomini.png
+alfcasino.com,Gambling,scrape_files_final/Gambling/alfcasino_com.txt,10729,en,2948,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/alfcasino.png
+librabet.com,Gambling,scrape_files_final/Gambling/librabet_com.txt,8218,en,2057,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/librabet.png
+cadoola.com,Gambling,scrape_files_final/Gambling/cadoola_com.txt,11888,en,3286,{'category': 'Gambling'},Gambling,1,ss/cadoola.png
+amunra.com,Gambling,scrape_files_final/Gambling/amunra_com.txt,8618,en,2214,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/amunra.png
+fezbet.com,Gambling,scrape_files_final/Gambling/fezbet_com.txt,6511,en,1923,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/fezbet.png
+7signs.com,Gambling,scrape_files_final/Gambling/7signs_com.txt,7550,en,2372,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/7signs.png
+betriot.com,Gambling,scrape_files_final/Gambling/betriot_com.txt,7033,en,1856,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/betriot.png
+bitdreams.com,Gambling,scrape_files_final/Gambling/bitdreams_com.txt,8532,en,2135,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/bitdreams.png
+myempire2.com,Gambling,scrape_files_final/Gambling/myempire2_com.txt,9853,en,2849,{'category': 'Gambling'},Gambling,1,ss/myempire2.png
+letslucky.com,Gambling,scrape_files_final/Gambling/letslucky_com.txt,6548,en,1943,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/letslucky.png
+ohmyspins.com,Gambling,scrape_files_final/Gambling/ohmyspins_com.txt,5167,en,1608,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/ohmyspins.png
+playzilla.com,Gambling,scrape_files_final/Gambling/playzilla_com.txt,4296,en,1324,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/playzilla.png
+powbet1.com,Gambling,scrape_files_final/Gambling/powbet1_com.txt,12741,en,3350,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/powbet1.png
+extravegas.net,Gambling,scrape_files_final/Gambling/extravegas_net.txt,18592,en,4314,{'category': 'Gambling'},Gambling,1,ss/extravegas.png
+frumzi.com,Gambling,scrape_files_final/Gambling/frumzi_com.txt,4538,en,1636,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/frumzi.png
+jackpotfrenzy.com,Gambling,scrape_files_final/Gambling/jackpotfrenzy_com.txt,6264,en,1722,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/jackpotfrenzy.png
+spinanga.com,Gambling,scrape_files_final/Gambling/spinanga_com.txt,7161,en,1883,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/spinanga.png
+venusescorts.com,Online adult entertainment,scrape_files_final/Escort services/venusescorts_com.txt,3639,de,1258,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/venusescorts.png
+kay-escorts.com,Online adult entertainment,scrape_files_final/Escort services/kay-escorts_com.txt,10637,en,2775,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/kay-escorts.png
+diamondmodels.ch,Online adult entertainment,scrape_files_final/Escort services/diamondmodels_ch.txt,11622,fr,5019,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/diamondmodels.png
+world-escort-guide.com,Online adult entertainment,scrape_files_final/Escort services/world-escort-guide_com.txt,16509,en,3884,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/world-escort-guide.png
+bestamsterdamescort.com,Online adult entertainment,scrape_files_final/Escort services/bestamsterdamescort_com.txt,16363,hu,6063,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/bestamsterdamescort.png
+amsterdamescort1.com,Online adult entertainment,scrape_files_final/Escort services/amsterdamescort1_com.txt,14296,en,3528,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/amsterdamescort1.png
+escortfox.com,Online adult entertainment,scrape_files_final/Escort services/escortfox_com.txt,7112,en,2526,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/escortfox.png
+amorette-international.com,Online adult entertainment,scrape_files_final/Escort services/amorette-international_com.txt,7447,en,1968,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/amorette-international.png
+Truetantric.com,Online adult entertainment,scrape_files_final/Escort services/Truetantric_com.txt,2517,en,837,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,0,ss/Truetantric.png
+amsterdamhotescort.com,Online adult entertainment,scrape_files_final/Escort services/amsterdamhotescort_com.txt,10048,en,2810,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/amsterdamhotescort.png
+rotterdam-escort.nl,Online adult entertainment,scrape_files_final/Escort services/rotterdam-escort_nl.txt,5773,en,1521,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/rotterdam-escort.png
+denhaag-escort.nl,Online adult entertainment,scrape_files_final/Escort services/denhaag-escort_nl.txt,6917,en,1815,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/denhaag-escort.png
+dreamsanddesires.nl,Online adult entertainment,scrape_files_final/Escort services/dreamsanddesires_nl.txt,26878,nl,"[8054, 3592]",{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/dreamsanddesires.png
+aliasharma.in,Online adult entertainment,scrape_files_final/Escort services/aliasharma_in.txt,39183,en,"[8930, 3009]","{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/aliasharma.png
+male-escort-melbourne.com,Online adult entertainment,scrape_files_final/Escort services/male-escort-melbourne_com.txt,12400,en,3215,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,0,ss/male-escort-melbourne.png
+worldescortangels.com,Online adult entertainment,scrape_files_final/Escort services/worldescortangels_com.txt,6754,ru,2196,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/worldescortangels.png
+escort-girl-bruxelles.be,Online adult entertainment,scrape_files_final/Escort services/escort-girl-bruxelles_be.txt,46220,fr,"[14211, 6200]",{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/escort-girl-bruxelles.png
+fiftyescorts.com,Online adult entertainment,scrape_files_final/Escort services/fiftyescorts_com.txt,12701,en,3698,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/fiftyescorts.png
+divaescort.nl,Online adult entertainment,scrape_files_final/Escort services/divaescort_nl.txt,8930,nl,2778,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/divaescort.png
+pinksheets.nl,Online adult entertainment,scrape_files_final/Escort services/pinksheets_nl.txt,12549,nl,3811,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/pinksheets.png
+jolly-girls.com,Online adult entertainment,scrape_files_final/Escort services/jolly-girls_com.txt,83592,he,"[45154, 27958]",{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/jolly-girls.png
+escortspanama.net,Online adult entertainment,scrape_files_final/Escort services/escortspanama_net.txt,4508,es,1946,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/escortspanama.png
+escortamsterdam1.com,Online adult entertainment,scrape_files_final/Escort services/escortamsterdam1_com.txt,17350,nl,5150,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/escortamsterdam1.png
+amsterdamescortsagency.com,Online adult entertainment,scrape_files_final/Escort services/amsterdamescortsagency_com.txt,23405,en,5560,"{
+  'category': 'Online adult entertainment'
+}",Online adult entertainment,1,ss/amsterdamescortsagency.png
+honeytyagi.com,Online adult entertainment,scrape_files_final/Escort services/honeytyagi_com.txt,39195,en,"[8760, 2865]","{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/honeytyagi.png
+skokka.in,Online adult entertainment,scrape_files_final/Escort services/skokka_in.txt,2669,en,929,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/skokka.png
+flightladies.com,Online adult entertainment,scrape_files_final/Escort services/flightladies_com.txt,7208,en,1929,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/flightladies.png
+only-pleasures.com,Online adult entertainment,scrape_files_final/Escort services/only-pleasures_com.txt,6383,en,1732,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/only-pleasures.png
+highclass-fetishescort.de/en/escort_emilia,Online adult entertainment,scrape_files_final/Escort services/highclass-fetishescort_de__en__escort_emilia.txt,5959,en,2390,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/highclass-fetishescort.png
+elitedolls.nl,Online adult entertainment,scrape_files_final/Escort services/elitedolls_nl.txt,4694,en,1348,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/elitedolls.png
+briannadymondvip.com,Online adult entertainment,scrape_files_final/Escort services/briannadymondvip_com.txt,2101,en,679,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/briannadymondvip.png
+damsquarebabes.com,Online adult entertainment,scrape_files_final/Escort services/damsquarebabes_com.txt,19807,en,4144,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/damsquarebabes.png
+hi.oklute.com,Online adult entertainment,scrape_files_final/Escort services/hi_oklute_com.txt,7287,en,2907,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/hi.png
+escortreal.com,Online adult entertainment,scrape_files_final/Escort services/escortreal_com.txt,34899,en,"[9584, 4985]","{
+  'category': 'Online adult entertainment'
+}",Online adult entertainment,1,ss/escortreal.png
+museofyourjourney.escortbook.com,Online adult entertainment,scrape_files_final/Escort services/museofyourjourney_escortbook_com.txt,5548,en,1607,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/museofyourjourney.png
+321escorts.com,Online adult entertainment,scrape_files_final/Escort services/321escorts_com.txt,12263,de,6038,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/321escorts.png
+richobo.com,Online adult entertainment,scrape_files_final/Escort services/richobo_com.txt,8874,en,2096,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/richobo.png
+sweetrelease.agency,Online adult entertainment,scrape_files_final/Escort services/sweetrelease_agency.txt,8995,en,2283,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/sweetrelease.png
+in.sduko.com,Online adult entertainment,scrape_files_final/Escort services/in_sduko_com.txt,14696,id,6336,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/in.png
+amayamathur.independent-escorts-site.com,Online adult entertainment,scrape_files_final/Escort services/amayamathur_independent-escorts-site_com.txt,4108,en,1119,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/amayamathur.png
+angelinariverovip.com/#bookings,Online adult entertainment,scrape_files_final/Escort services/angelinariverovip_com__#bookings.txt,17837,en,4056,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/angelinariverovip.png
+cheapdelhiescorts.com,Online adult entertainment,scrape_files_final/Escort services/cheapdelhiescorts_com.txt,43400,en,"[9531, 3446]","{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/cheapdelhiescorts.png
+yomita-oberoi.in,Online adult entertainment,scrape_files_final/Escort services/yomita-oberoi_in.txt,23555,en,5000,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/yomita-oberoi.png
+mega.io,Cyberlockers,scrape_files_final/Cyberlockers/mega_io.txt,7910,en,2034,"{
+  'category': 'Cyberlockers'
+}",Cyberlockers,1,ss/mega.png
+mediafire.com,Cyberlockers,scrape_files_final/Cyberlockers/mediafire_com.txt,5732,en,1493,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/mediafire.png
+dropbox.com,Cyberlockers,scrape_files_final/Cyberlockers/dropbox_com.txt,5737,en,1457,{'category': 'Charity'},Charity,0,ss/dropbox.png
+pcloud.com,Cyberlockers,scrape_files_final/Cyberlockers/pcloud_com.txt,2913,en,963,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/pcloud.png
+4shared.com,Cyberlockers,scrape_files_final/Cyberlockers/4shared_com.txt,3433,en,1262,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/4shared.png
+turbobit.net,Cyberlockers,scrape_files_final/Cyberlockers/turbobit_net.txt,1623,en,685,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/turbobit.png
+wetransfer.com,Cyberlockers,scrape_files_final/Cyberlockers/wetransfer_com.txt,3549,en,980,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/wetransfer.png
+sendgb.com,Cyberlockers,scrape_files_final/Cyberlockers/sendgb_com.txt,14554,en,3617,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/sendgb.png
+fshare.vn,Cyberlockers,scrape_files_final/Cyberlockers/fshare_vn.txt,7937,vi,3298,{'category': 'Cyberlockers'},Cyberlockers,1,
+filemail.com,Cyberlockers,scrape_files_final/Cyberlockers/filemail_com.txt,7611,en,2034,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/filemail.png
+rapidshare.io,Cyberlockers,scrape_files_final/Cyberlockers/rapidshare_io.txt,1396,en,538,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/rapidshare.png
+pixeldrain.com,Cyberlockers,scrape_files_final/Cyberlockers/pixeldrain_com.txt,4656,en,1457,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/pixeldrain.png
+icedrive.net,Cyberlockers,scrape_files_final/Cyberlockers/icedrive_net.txt,1873,en,676,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/icedrive.png
+sync.com,Cyberlockers,scrape_files_final/Cyberlockers/sync_com.txt,4384,en,1171,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/sync.png
+gofile.io,Cyberlockers,scrape_files_final/Cyberlockers/gofile_io.txt,2593,en,777,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/gofile.png
+easyupload.io,Cyberlockers,scrape_files_final/Cyberlockers/easyupload_io.txt,9667,en,2411,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/easyupload.png
+files.fm,Cyberlockers,scrape_files_final/Cyberlockers/files_fm.txt,8689,en,2279,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/files.png
+krakenfiles.com,Cyberlockers,scrape_files_final/Cyberlockers/krakenfiles_com.txt,1752,en,668,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/krakenfiles.png
+uploadev.org,Cyberlockers,scrape_files_final/Cyberlockers/uploadev_org.txt,2062,en,676,"{
+  ""category"": ""Other""
+}",Other,0,ss/uploadev.png
+hexupload.net,Cyberlockers,scrape_files_final/Cyberlockers/hexupload_net.txt,9639,en,2303,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/hexupload.png
+filen.io,Cyberlockers,scrape_files_final/Cyberlockers/filen_io.txt,1778,en,675,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/filen.png
+jumbo.is,Direct Sales,scrape_files_final/Cyberlockers/jumbo_is.txt,3826,no,2047,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/jumbo.png
+icerbox.com,Cyberlockers,scrape_files_final/Cyberlockers/icerbox_com.txt,1569,en,604,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/icerbox.png
+coinberry.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinberry_com.txt,9661,en,2550,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coinberry.png
+easycrypto.ai,Cryptocurrency,scrape_files_final/Cryptocurrency/easycrypto_ai.txt,1263,en,525,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,
+lykke.com,Cryptocurrency,scrape_files_final/Cryptocurrency/lykke_com.txt,10020,en,2388,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/lykke.png
+bitpanda.com,Cryptocurrency,scrape_files_final/Cryptocurrency/bitpanda_com.txt,12726,en,3442,{'category': 'Cryptocurrency'},Cryptocurrency,1,ss/bitpanda.png
+independentreserve.com,Cryptocurrency,scrape_files_final/Cryptocurrency/independentreserve_com.txt,12966,en,3359,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/independentreserve.png
+bitflyer.com,Cryptocurrency,scrape_files_final/Cryptocurrency/bitflyer_com.txt,10516,ja,4331,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/bitflyer.png
+spectrocoin.com,Cryptocurrency,scrape_files_final/Cryptocurrency/spectrocoin_com.txt,3144,en,1022,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/spectrocoin.png
+coinspot.com.au,Cryptocurrency,scrape_files_final/Cryptocurrency/coinspot_com_au.txt,6279,en,1814,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coinspot.png
+swapspace.co,Cryptocurrency,scrape_files_final/Cryptocurrency/swapspace_co.txt,8222,en,2341,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/swapspace.png
+ndax.io,Cryptocurrency,scrape_files_final/Cryptocurrency/ndax_io.txt,12143,en,2988,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/ndax.png
+newton.co,Cryptocurrency,scrape_files_final/Cryptocurrency/newton_co.txt,10576,en,2935,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/newton.png
+coinmama.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinmama_com.txt,4386,en,1495,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/coinmama.png
+paymium.com,Cryptocurrency,scrape_files_final/Cryptocurrency/paymium_com.txt,4338,fr,1689,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/paymium.png
+coinsquare.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinsquare_com.txt,9123,en,2169,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coinsquare.png
+uphold.com,Cryptocurrency,scrape_files_final/Cryptocurrency/uphold_com.txt,4668,en,1288,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/uphold.png
+binance.com,Cryptocurrency,scrape_files_final/Cryptocurrency/binance_com.txt,10253,en,2940,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/binance.png
+okcoin.com,Cryptocurrency,scrape_files_final/Cryptocurrency/okcoin_com.txt,3788,en,1087,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/okcoin.png
+bitbuy.ca,Cryptocurrency,scrape_files_final/Cryptocurrency/bitbuy_ca.txt,9661,en,2550,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/bitbuy.png
+bitoasis.net,Cryptocurrency,scrape_files_final/Cryptocurrency/bitoasis_net.txt,3105,en,1210,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/bitoasis.png
+exmo.com,Cryptocurrency,scrape_files_final/Cryptocurrency/exmo_com.txt,17324,en,5155,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/exmo.png
+coinmetro.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinmetro_com.txt,5762,en,2083,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coinmetro.png
+crypto.com,Cryptocurrency,scrape_files_final/Cryptocurrency/crypto_com.txt,16787,en,3849,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/crypto.png
+coinjar.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinjar_com.txt,33755,en,"[8231, 2728]","{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/coinjar.png
+swyftx.com.au,Cryptocurrency,scrape_files_final/Cryptocurrency/swyftx_com_au.txt,4574,en,1552,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/swyftx.png
+bitbank.cc,Cryptocurrency,scrape_files_final/Cryptocurrency/bitbank_cc.txt,16144,ja,6077,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/bitbank.png
+coincheck.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coincheck_com.txt,7072,en,1673,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coincheck.png
+luno.com,Cryptocurrency,scrape_files_final/Cryptocurrency/luno_com.txt,3934,en,1093,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/luno.png
+bitmex.com,Cryptocurrency,scrape_files_final/Cryptocurrency/bitmex_com.txt,10694,en,4414,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/bitmex.png
+deribit.com,Cryptocurrency,scrape_files_final/Cryptocurrency/deribit_com.txt,14868,en,3624,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/deribit.png
+probit.com,Cryptocurrency,scrape_files_final/Cryptocurrency/probit_com.txt,9398,en,3450,{'category': 'Cryptocurrency'},Cryptocurrency,1,ss/probit.png
+lbank.info,Cryptocurrency,scrape_files_final/Cryptocurrency/lbank_info.txt,5229,en,1973,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/lbank.png
+cashaa.com,Cryptocurrency,scrape_files_final/Cryptocurrency/cashaa_com.txt,9305,en,2392,{'category': 'Cryptocurrency'},Cryptocurrency,1,ss/cashaa.png
+crazyidol.com,Online adult entertainment,scrape_files_final/Child porn/crazyidol_com.txt,1689,en,798,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/crazyidol.png
+aidol.asia,Online adult entertainment,scrape_files_final/Child porn/aidol_asia.txt,11021,en,5001,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/aidol.png
+idolunderworld.com,Online adult entertainment,scrape_files_final/Child porn/idolunderworld_com.txt,20576,en,7719,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/idolunderworld.png
+girlygirlpic.com,Online adult entertainment,scrape_files_final/Child porn/girlygirlpic_com.txt,6395,vi,3385,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/girlygirlpic.png
+superjunior-jp.net,Other,scrape_files_final/Other/superjunior-jp_net.txt,1303,en,663,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/superjunior-jp.png
+allgravure.com,Online adult entertainment,scrape_files_final/Child porn/allgravure_com.txt,6541,en,1813,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/allgravure.png
+homicidols.com,Other,scrape_files_final/Other/homicidols_com.txt,12524,en,3863,"{
+  ""category"": ""Other""
+}",Other,1,ss/homicidols.png
+idolfile.com,Online adult entertainment,scrape_files_final/Child porn/idolfile_com.txt,5327,en,2715,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/idolfile.png
+xidol.net,Online adult entertainment,scrape_files_final/Child porn/xidol_net.txt,10426,en,4864,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/xidol.png
+youiv.tv,Online adult entertainment,scrape_files_final/Child porn/youiv_tv.txt,1499,vi,919,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/youiv.png
+girlgirlgo.org,Online adult entertainment,scrape_files_final/Child porn/girlgirlgo_org.txt,6346,vi,3304,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/girlgirlgo.png
+ivworld.net,Online adult entertainment,scrape_files_final/Child porn/ivworld_net.txt,11623,en,5293,"{
+  'category': 'Online adult entertainment'
+}",Online adult entertainment,1,ss/ivworld.png
+nymsite.com,Online adult entertainment,scrape_files_final/Child porn/nymsite_com.txt,5477,en,1962,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/nymsite.png
+tokyogirlsupdate.com,Other,scrape_files_final/Other/tokyogirlsupdate_com.txt,8727,en,2871,"{
+  'category': 'Entertainment'
+}",Entertainment,0,ss/tokyogirlsupdate.png
+x-idol.net,Online adult entertainment,scrape_files_final/Child porn/x-idol_net.txt,10325,en,4670,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/x-idol.png
+jappydolls.net,Online adult entertainment,scrape_files_final/Child porn/jappydolls_net.txt,2945,en,1417,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/jappydolls.png
+spanish-town-guides.com,Other,scrape_files_final/Other/spanish-town-guides_com.txt,11120,en,2802,"{
+  ""category"": ""Travel and Tourism""
+}",Travel and Tourism,0,ss/spanish-town-guides.png
+u15x.com,Online adult entertainment,scrape_files_final/Child porn/u15x_com.txt,1385,en,942,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/u15x.png
+xasiat.com,Online adult entertainment,scrape_files_final/Child porn/xasiat_com.txt,4802,en,2184,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/xasiat.png
+sexbixbox.com,Online adult entertainment,scrape_files_final/Child porn/sexbixbox_com.txt,14573,en,5219,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/sexbixbox.png
+ivfree.asia,Online adult entertainment,scrape_files_final/Child porn/ivfree_asia.txt,5395,en,2980,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/ivfree.png
+richlandcountydemocrats.com,Other,scrape_files_final/Other/richlandcountydemocrats_com.txt,1593,en,709,"{
+  ""category"": ""Charity""
+}",Charity,0,ss/richlandcountydemocrats.png
+jrdvd.seesaa.net,Online adult entertainment,scrape_files_final/Child porn/jrdvd_seesaa_net.txt,7323,ja,3245,"{
+  'category': 'Online adult entertainment'
+}",Online adult entertainment,1,ss/jrdvd.png
+japteenx.com,Online adult entertainment,scrape_files_final/Child porn/japteenx_com.txt,6760,en,2702,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/japteenx.png
+youivt.com,Online adult entertainment,scrape_files_final/Child porn/youivt_com.txt,1413,en,864,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/youivt.png
+lifesciencesperspectives.com,Other,scrape_files_final/Other/lifesciencesperspectives_com.txt,11596,en,2939,"{
+  'category': 'Life Sciences'
+}",Life Sciences,0,ss/lifesciencesperspectives.png
+binjix.top,Online adult entertainment,scrape_files_final/Child porn/binjix_top.txt,1246,ko,808,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/binjix.png
+odingajproperties.com,Other,scrape_files_final/Other/odingajproperties_com.txt,4510,en,1617,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/odingajproperties.png
+stripchatgirls.com,Online adult entertainment,scrape_files_final/Child porn/stripchatgirls_com.txt,7534,en,2749,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/stripchatgirls.png
+pornhq.me,Online adult entertainment,scrape_files_final/Child porn/pornhq_me.txt,7657,en,2862,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/pornhq.png
+suruga-ya.com,Other,scrape_files_final/Other/suruga-ya_com.txt,11779,en,4451,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/suruga-ya.png
+gilead.com,Other,scrape_files_final/Other/gilead_com.txt,10980,en,2811,"{
+  ""category"": ""Charity""
+}",Charity,0,ss/gilead.png
+9gag.com,Other,scrape_files_final/Other/9gag_com.txt,2888,en,887,"{
+  ""category"": ""Other""
+}",Other,1,ss/9gag.png
+glarity.app,Other,scrape_files_final/Other/glarity_app.txt,3139,en,974,"{
+  ""category"": ""Other""
+}",Other,1,ss/glarity.png
+bestprettygirl.com,Online adult entertainment,scrape_files_final/Child porn/bestprettygirl_com.txt,1874,en,1033,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/bestprettygirl.png
+unicef.org,Charity,scrape_files_final/Charity/unicef_org.txt,5901,en,1625,{'category': 'Information Not Enough'},Information Not Enough,0,ss/unicef.png
+msf.org,Charity,scrape_files_final/Charity/msf_org.txt,13787,en,3430,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/msf.png
+care.org,Charity,scrape_files_final/Charity/care_org.txt,6775,en,1791,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/care.png
+oxfam.org,Charity,scrape_files_final/Charity/oxfam_org.txt,5682,en,1602,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications""],
+        ""Firearms"": [""access firearms""],
+        ""Charity"": [""non-profit organization"", ""raise funds"", ""services"", ""cause"", ""donation options""],
+        ""Cryptocurrency"": [""digital currencies"", ""Bitcoin"", ""alternative""],
+        ""Gambling"": [""gambling activities""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""cultivation"", ""production"", ""distribution"", ""sales""],
+        ""Massage parlors"": [""massage"", ""spa services""],
+        ""Telemarketing Call centers"": [""telemarketing services"", ""call centers""],
+        ""Direct Sales"": [""selling products directly to consumers"", ""eCommerce"", ""independent sales representatives""]
+    }",Information Not Enough,0,ss/oxfam.png
+nature.org,Charity,scrape_files_final/Charity/nature_org.txt,12690,en,2981,"{
+  'category': 'Charity'
+}",Charity,1,ss/nature.png
+redcross.org,Charity,scrape_files_final/Charity/redcross_org.txt,8962,en,2258,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/redcross.png
+salvationarmyusa.org,Charity,scrape_files_final/Charity/salvationarmyusa_org.txt,6346,en,1695,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/salvationarmyusa.png
+wateraid.org,Charity,scrape_files_final/Charity/wateraid_org.txt,8944,en,2281,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/wateraid.png
+mercycorps.org,Charity,scrape_files_final/Charity/mercycorps_org.txt,7168,en,1815,"{
+  'category': 'Charity'
+}",Charity,1,ss/mercycorps.png
+plan-international.org,Charity,scrape_files_final/Charity/plan-international_org.txt,4734,en,1392,"{
+  'category': 'Charity'
+}",Charity,1,ss/plan-international.png
+actionaid.org,Charity,scrape_files_final/Charity/actionaid_org.txt,3958,en,1204,{'category': 'Charity'},Charity,1,ss/actionaid.png
+cancer.org,Charity,scrape_files_final/Charity/cancer_org.txt,28408,en,6928,"{
+  'category': 'Charity'
+}",Charity,1,ss/cancer.png
+heart.org,Charity,scrape_files_final/Charity/heart_org.txt,16101,en,3917,{'category': 'Charity'},Charity,1,ss/heart.png
+lung.org,Charity,scrape_files_final/Charity/lung_org.txt,14900,en,3811,{'category': 'Charity'},Charity,1,ss/lung.png
+alz.org,Charity,scrape_files_final/Charity/alz_org.txt,21448,en,5263,{'category': 'Charity'},Charity,1,ss/alz.png
+humanesociety.org,Charity,scrape_files_final/Charity/humanesociety_org.txt,3659,en,1101,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/humanesociety.png
+unitedway.org,Charity,scrape_files_final/Charity/unitedway_org.txt,4728,en,1318,"{
+  'category': 'Charity'
+}",Charity,1,ss/unitedway.png
+feedthechildren.org,Charity,scrape_files_final/Charity/feedthechildren_org.txt,5430,en,1445,"{
+  'category': 'Charity'
+}",Charity,1,ss/feedthechildren.png
+bgca.org,Charity,scrape_files_final/Charity/bgca_org.txt,6381,en,1715,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/bgca.png
+ymca.org,Charity,scrape_files_final/Charity/ymca_org.txt,6217,en,1680,{'category': 'Charity'},Charity,1,ss/ymca.png
+ywca.org,Charity,scrape_files_final/Charity/ywca_org.txt,10643,en,2839,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/ywca.png
+afb.org,Charity,scrape_files_final/Charity/afb_org.txt,6516,en,1757,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/afb.png
+sierraclub.org,Charity,scrape_files_final/Charity/sierraclub_org.txt,5049,en,1342,"{
+  'category': 'Charity'
+}",Charity,1,ss/sierraclub.png
+nwf.org,Charity,scrape_files_final/Charity/nwf_org.txt,8303,en,2562,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/nwf.png
+audubon.org,Charity,scrape_files_final/Charity/audubon_org.txt,4993,en,1475,"{
+  'category': 'Charity'
+}",Charity,1,ss/audubon.png
+doctorswithoutborders.org,Charity,scrape_files_final/Charity/doctorswithoutborders_org.txt,6955,en,1877,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/doctorswithoutborders.png
+wfp.org,Charity,scrape_files_final/Charity/wfp_org.txt,11897,en,3350,{'category': 'Charity'},Charity,1,ss/wfp.png
+water.org,Charity,scrape_files_final/Charity/water_org.txt,7375,en,1791,{'category': 'Charity'},Charity,1,ss/water.png
+directrelief.org,Charity,scrape_files_final/Charity/directrelief_org.txt,17934,en,4099,{'category': 'Charity'},Charity,1,ss/directrelief.png
+acumen.org,Charity,scrape_files_final/Charity/acumen_org.txt,10051,en,2537,"{
+  'category': 'Charity'
+}",Charity,1,ss/acumen.png
+charitywater.org,Charity,scrape_files_final/Charity/charitywater_org.txt,6752,en,1842,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/charitywater.png
+amnesty.org,Charity,scrape_files_final/Charity/amnesty_org.txt,2902,en,936,{'category': 'Cyberlockers'},Cyberlockers,0,ss/amnesty.png
+greenpeace.org/eastasia,Charity,scrape_files_final/Charity/greenpeace_org__eastasia.txt,6082,en,1733,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/greenpeace.png
+rainforest-alliance.org,Charity,scrape_files_final/Charity/rainforest-alliance_org.txt,24494,en,5929,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/rainforest-alliance.png
+roomtoread.org,Charity,scrape_files_final/Charity/roomtoread_org.txt,3871,en,1144,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/roomtoread.png
+stjude.org,Charity,scrape_files_final/Charity/stjude_org.txt,4528,en,1383,"{
+  'category': 'Charity'
+}",Charity,1,ss/stjude.png
+wwfindia.org,Charity,scrape_files_final/Charity/wwfindia_org.txt,3722,en,1243,"{
+  'category': 'Charity'
+}",Charity,1,ss/wwfindia.png
+peta.org,Charity,scrape_files_final/Charity/peta_org.txt,17886,en,4547,{'category': 'Charity'},Charity,1,ss/peta.png
+makeawish.org,Charity,scrape_files_final/Charity/makeawish_org.txt,2020,en,746,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/makeawish.png
+childfund.org,Charity,scrape_files_final/Charity/childfund_org.txt,3433,en,1039,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/childfund.png
+donorschoose.org,Charity,scrape_files_final/Charity/donorschoose_org.txt,7391,en,2004,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/donorschoose.png
+children.org,Charity,scrape_files_final/Charity/children_org.txt,9490,en,2583,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/children.png
+soles4souls.org,Charity,scrape_files_final/Charity/soles4souls_org.txt,3265,en,1099,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/soles4souls.png
+borgenproject.org,Charity,scrape_files_final/Charity/borgenproject_org.txt,4371,en,1208,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/borgenproject.png
+aspca.org,Charity,scrape_files_final/Charity/aspca_org.txt,3987,en,1261,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/aspca.png
+conservation.org,Charity,scrape_files_final/Charity/conservation_org.txt,5918,en,1511,{'category': 'Charity'},Charity,1,ss/conservation.png
+hopeforhaiti.com,Charity,scrape_files_final/Charity/hopeforhaiti_com.txt,3922,en,1158,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/hopeforhaiti.png
+freedomfromtorture.org,Charity,scrape_files_final/Charity/freedomfromtorture_org.txt,5917,en,1617,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/freedomfromtorture.png
+nokidhungry.org,Charity,scrape_files_final/Charity/nokidhungry_org.txt,4282,en,1300,"{
+  'category': 'Charity'
+}",Charity,1,ss/nokidhungry.png
+childrensdefense.org,Charity,scrape_files_final/Charity/childrensdefense_org.txt,6064,en,1578,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/childrensdefense.png
+eifoundation.org,Charity,scrape_files_final/Charity/eifoundation_org.txt,3203,en,916,"{
+  'category': 'Charity'
+}",Charity,1,ss/eifoundation.png
+sickkidsfoundation.com,Charity,scrape_files_final/Charity/sickkidsfoundation_com.txt,4156,en,1311,"{
+  'category': 'Charity'
+}",Charity,1,ss/sickkidsfoundation.png
+covenanthouse.org,Charity,scrape_files_final/Charity/covenanthouse_org.txt,5904,en,1599,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/covenanthouse.png
+goodwill.org,Charity,scrape_files_final/Charity/goodwill_org.txt,4632,en,1245,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/goodwill.png
+camfed.org,Charity,scrape_files_final/Charity/camfed_org.txt,10572,en,2626,{'category': 'Charity'},Charity,1,ss/camfed.png
+girlsnotbrides.org,Charity,scrape_files_final/Charity/girlsnotbrides_org.txt,3273,en,986,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/girlsnotbrides.png
+youthvillages.org,Charity,scrape_files_final/Charity/youthvillages_org.txt,8737,en,2154,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/youthvillages.png
+refugees.org,Charity,scrape_files_final/Charity/refugees_org.txt,47153,en,"[10102, 3330]",{'category': 'Charity'},Charity,1,ss/refugees.png
+350.org,Charity,scrape_files_final/Charity/350_org.txt,7699,en,2388,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/350.png
+rippleeffect.org,Charity,scrape_files_final/Charity/rippleeffect_org.txt,25922,en,6073,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/rippleeffect.png
+charitynavigator.org,Charity,scrape_files_final/Charity/charitynavigator_org.txt,6930,en,1816,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/charitynavigator.png
+freerice.com,Charity,scrape_files_final/Charity/freerice_com.txt,3813,en,1078,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/freerice.png
+projecthope.org,Charity,scrape_files_final/Charity/projecthope_org.txt,8931,en,2254,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/projecthope.png
+malarianomore.org,Charity,scrape_files_final/Charity/malarianomore_org.txt,3324,en,1047,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/malarianomore.png
+england.shelter.org.uk,Charity,scrape_files_final/Charity/england_shelter_org_uk.txt,3094,en,928,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/england.png
+buildon.org,Charity,scrape_files_final/Charity/buildon_org.txt,3036,en,956,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/buildon.png
+opportunityinternational.ca,Charity,scrape_files_final/Charity/opportunityinternational_ca.txt,7720,en,1929,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/opportunityinternational.png
+engenderhealth.org,Charity,scrape_files_final/Charity/engenderhealth_org.txt,7745,en,2045,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/engenderhealth.png
+stopthetraffik.org,Charity,scrape_files_final/Charity/stopthetraffik_org.txt,23002,en,5706,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/stopthetraffik.png
+everymothercounts.org,Charity,scrape_files_final/Charity/everymothercounts_org.txt,3121,en,979,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/everymothercounts.png
+hopelink.org,Charity,scrape_files_final/Charity/hopelink_org.txt,3986,en,1148,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/hopelink.png
+charityintelligence.ca,Charity,scrape_files_final/Charity/charityintelligence_ca.txt,4877,en,1479,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/charityintelligence.png
+medicalteams.org,Charity,scrape_files_final/Charity/medicalteams_org.txt,5350,en,1494,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/medicalteams.png
+orangutan.org,Charity,scrape_files_final/Charity/orangutan_org.txt,6987,en,1889,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/orangutan.png
+rescue.org,Charity,scrape_files_final/Charity/rescue_org.txt,11196,en,2830,"{
+  'category': 'Charity'
+}",Charity,1,ss/rescue.png
+projectsunshine.org,Charity,scrape_files_final/Charity/projectsunshine_org.txt,4457,en,1215,"{
+  'category': 'Charity'
+}",Charity,1,ss/projectsunshine.png
+transparency.org,Charity,scrape_files_final/Charity/transparency_org.txt,28818,en,6655,"{
+  'category': 'Charity'
+}",Charity,1,ss/transparency.png
+givingwhatwecan.org,Charity,scrape_files_final/Charity/givingwhatwecan_org.txt,6094,en,1703,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/givingwhatwecan.png
+ruger.com,Firearms,scrape_files_final/Firearms/ruger_com.txt,7217,en,2892,{'category': 'Firearms'},Firearms,1,ss/ruger.png
+beretta.com,Firearms,scrape_files_final/Firearms/beretta_com.txt,3512,en,1009,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/beretta.png
+sigsauer.com,Firearms,scrape_files_final/Firearms/sigsauer_com.txt,8098,en,2683,{'category': 'Firearms'},Firearms,1,ss/sigsauer.png
+springfield-armory.com,Firearms,scrape_files_final/Firearms/springfield-armory_com.txt,25235,en,6934,{'category': 'Firearms'},Firearms,1,ss/springfield-armory.png
+colt.com,Firearms,scrape_files_final/Firearms/colt_com.txt,3815,en,1253,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/colt.png
+shopbenelli.com,Firearms,scrape_files_final/Firearms/shopbenelli_com.txt,2971,en,1129,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/shopbenelli.png
+remington.com,Firearms,scrape_files_final/Firearms/remington_com.txt,14071,en,4478,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/remington.png
+henryusa.com,Firearms,scrape_files_final/Firearms/henryusa_com.txt,7168,en,2142,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/henryusa.png
+browning.com,Firearms,scrape_files_final/Firearms/browning_com.txt,5136,en,1869,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/browning.png
+waltherarms.com,Firearms,scrape_files_final/Firearms/waltherarms_com.txt,26645,en,7951,{'category': 'Firearms'},Firearms,1,ss/waltherarms.png
+taurususa.com,Firearms,scrape_files_final/Firearms/taurususa_com.txt,8269,en,2471,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/taurususa.png
+mossberg.com,Firearms,scrape_files_final/Firearms/mossberg_com.txt,6157,en,2104,{'category': 'Firearms'},Firearms,1,ss/mossberg.png
+fnamerica.com,Firearms,scrape_files_final/Firearms/fnamerica_com.txt,5074,en,1680,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/fnamerica.png
+deserttech.com,Firearms,scrape_files_final/Firearms/deserttech_com.txt,4979,en,1751,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/deserttech.png
+natchezss.com,Firearms,scrape_files_final/Firearms/natchezss_com.txt,22022,en,7046,{'category': 'Firearms'},Firearms,1,
+impactguns.com,Firearms,scrape_files_final/Firearms/impactguns_com.txt,94811,en,"[33631, 8119]","{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/impactguns.png
+primaryarms.com,Firearms,scrape_files_final/Firearms/primaryarms_com.txt,17924,en,5607,"{
+  ""category"": ""Firearms""
+}",Firearms,1,
+smith-wesson.com,Firearms,scrape_files_final/Firearms/smith-wesson_com.txt,6749,en,1676,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/smith-wesson.png
+eurooptic.com,Firearms,scrape_files_final/Firearms/eurooptic_com.txt,66900,en,"[21783, 9191]","{
+  'category': 'Firearms'
+}",Firearms,1,ss/eurooptic.png
+luckygunner.com,Firearms,scrape_files_final/Firearms/luckygunner_com.txt,6449,en,2281,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/luckygunner.png
+glock.com,Firearms,scrape_files_final/Firearms/glock_com.txt,7331,en,2100,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/glock.png
+savagearms.com,Firearms,scrape_files_final/Firearms/savagearms_com.txt,5765,en,1678,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/savagearms.png
+magpul.com,Firearms,scrape_files_final/Firearms/magpul_com.txt,7663,en,2618,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/magpul.png
+eotechinc.com,Firearms,scrape_files_final/Firearms/eotechinc_com.txt,6686,en,1836,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/eotechinc.png
+sako.global/tikka,Firearms,scrape_files_final/Firearms/sako_global__tikka.txt,3572,en,1064,{'category': 'Information Not Enough'},Information Not Enough,0,ss/sako.png
+holosun.com,Firearms,scrape_files_final/Firearms/holosun_com.txt,2376,en,975,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/holosun.png
+streamlight.com,Other,scrape_files_final/Other/streamlight_com.txt,6497,en,1927,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/streamlight.png
+surefire.com,Firearms,scrape_files_final/Firearms/surefire_com.txt,4257,en,1311,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/surefire.png
+leupold.com,Firearms,scrape_files_final/Firearms/leupold_com.txt,19248,en,6148,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/leupold.png
+zenithfirearms.com,Firearms,scrape_files_final/Firearms/zenithfirearms_com.txt,30143,en,"[10862, 5767]",{'category': 'Firearms'},Firearms,1,ss/zenithfirearms.png
+wilsoncombat.com,Firearms,scrape_files_final/Firearms/wilsoncombat_com.txt,20098,en,6153,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/wilsoncombat.png
+noveske.com,Firearms,scrape_files_final/Firearms/noveske_com.txt,7105,en,2996,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/noveske.png
+advanced-armament.com,Firearms,scrape_files_final/Firearms/advanced-armament_com.txt,2907,en,1037,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/advanced-armament.png
+ballisticadvantage.com,Firearms,scrape_files_final/Firearms/ballisticadvantage_com.txt,3483,en,1307,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/ballisticadvantage.png
+stagarms.com,Firearms,scrape_files_final/Firearms/stagarms_com.txt,5092,en,1812,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/stagarms.png
+nightforceoptics.com,Firearms,scrape_files_final/Firearms/nightforceoptics_com.txt,3289,en,1259,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/nightforceoptics.png
+safariland.com,Firearms,scrape_files_final/Firearms/safariland_com.txt,9619,en,3070,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/safariland.png
+talongrips.com,Firearms,scrape_files_final/Firearms/talongrips_com.txt,7191,en,2457,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/talongrips.png
+teledirect.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/teledirect_com.txt,8395,en,2041,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/teledirect.png
+ttec.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/ttec_com.txt,14488,en,3413,"{
+  'category': 'Other'
+}",Other,0,ss/ttec.png
+premierbpo.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/premierbpo_com.txt,8115,en,1993,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/premierbpo.png
+callboxinc.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/callboxinc_com.txt,12128,en,2929,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/callboxinc.png
+amway.com,Direct Sales,scrape_files_final/Direct Sales/amway_com.txt,14878,en,3541,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/amway.png
+marykay.com,Direct Sales,scrape_files_final/Direct Sales/marykay_com.txt,1760,en,691,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/marykay.png
+avon.com,Direct Sales,scrape_files_final/Direct Sales/avon_com.txt,9441,en,2661,{'category': 'Direct Sales'},Direct Sales,1,ss/avon.png
+focusservices.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/focusservices_com.txt,5031,en,1383,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/focusservices.png
+econtactlive.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/econtactlive_com.txt,2741,en,923,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/econtactlive.png
+answernet.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/answernet_com.txt,7988,en,2071,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/answernet.png
+dialpad.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/dialpad_com.txt,9447,en,2461,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/dialpad.png
+zoho.com/crm,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/zoho_com__crm.txt,38230,en,"[10191, 3193]","{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""pharmacy""],
+        ""Firearms"": [""firearms"", ""guns""],
+        ""Charity"": [""non-profit"", ""donation"", ""fundraising""],
+        ""Cryptocurrency"": [""Bitcoin"", ""digital currencies""],
+        ""Gambling"": [""gambling"", ""casino"", ""betting""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""cultivation"", ""production"", ""distribution"", ""sales""],
+        ""Massage parlors"": [""massage"", ""spa services""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call center""],
+        ""Direct Sales"": [""direct sales"", ""eCommerce"", ""independent sales representatives""]
+    }",Information Not Enough,0,ss/zoho.png
+klenty.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/klenty_com.txt,15100,en,3735,{'category': 'Direct Sales'},Direct Sales,0,ss/klenty.png
+theconnectioncc.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/theconnectioncc_com.txt,5570,en,1397,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/theconnectioncc.png
+supportyourapp.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/supportyourapp_com.txt,6712,en,1665,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/supportyourapp.png
+go4customer.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/go4customer_com.txt,30733,en,7898,{'category': 'Direct Sales'},Direct Sales,0,ss/go4customer.png
+ameridial.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/ameridial_com.txt,10888,en,2738,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/ameridial.png
+voiceteleservices.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/voiceteleservices_com.txt,3642,en,979,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/voiceteleservices.png
+unity-connect.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/unity-connect_com.txt,25886,en,5755,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/unity-connect.png
+3ccontactservices.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/3ccontactservices_com.txt,5527,en,1424,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/3ccontactservices.png
+grandsolutionsinc.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/grandsolutionsinc_com.txt,2697,en,828,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/grandsolutionsinc.png
+onecontactcenter.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/onecontactcenter_com.txt,4749,en,1225,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/onecontactcenter.png
+conectys.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/conectys_com.txt,11683,en,2875,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/conectys.png
+callcenterpros.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/callcenterpros_com.txt,6871,en,1728,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/callcenterpros.png
+telvista.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/telvista_com.txt,8127,en,1916,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/telvista.png
+qualitycontactsolutions.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/qualitycontactsolutions_com.txt,11559,en,2999,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/qualitycontactsolutions.png
+interconmessaging.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/interconmessaging_com.txt,11152,en,2397,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/interconmessaging.png
+globalresponse.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/globalresponse_com.txt,6790,en,1671,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/globalresponse.png
+worldwidecallcenters.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/worldwidecallcenters_com.txt,18129,en,4111,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/worldwidecallcenters.png
+outsource-consultants.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/outsource-consultants_com.txt,7470,en,1881,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/outsource-consultants.png
+globaltelesourcing.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/globaltelesourcing_com.txt,3080,en,931,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/globaltelesourcing.png
+maxicus.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/maxicus_com.txt,10510,en,2547,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/maxicus.png
+telereach.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/telereach_com.txt,4124,en,1084,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,
+responsepoint.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/responsepoint_com.txt,4586,en,1262,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/responsepoint.png
+simplycontact.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/simplycontact_com.txt,10059,en,2575,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/simplycontact.png
+americall.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/americall_com.txt,5521,en,1350,"{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/americall.png
+shoreagents.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/shoreagents_com.txt,67741,en,"[18032, 5634]","{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/shoreagents.png
+helloanswering.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/helloanswering_com.txt,4433,en,1213,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/helloanswering.png
+voicewareusa.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/voicewareusa_com.txt,3330,en,965,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/voicewareusa.png
+tmscallcenters.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/tmscallcenters_com.txt,3330,en,1032,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/tmscallcenters.png
+answerconnect.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/answerconnect_com.txt,10582,en,2683,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/answerconnect.png
+customerelation.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/customerelation_com.txt,4605,en,1147,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/customerelation.png
+supportservicesgroup.co,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/supportservicesgroup_co.txt,8678,en,2203,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/supportservicesgroup.png
+patlive.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/patlive_com.txt,6081,en,1598,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/patlive.png
+answerfirst.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/answerfirst_com.txt,8777,en,2146,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/answerfirst.png
+rakuten.com ,Direct Sales,scrape_files_final/Direct Sales/rakuten_com .txt,3503,en,1214,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,
+flipkart.com,Direct Sales,scrape_files_final/Direct Sales/flipkart_com.txt,17565,en,4715,"{
+  ""category"": ""E-commerce""
+}",E-commerce,0,ss/flipkart.png
+Shopify.com,Direct Sales,scrape_files_final/Direct Sales/Shopify_com.txt,5714,en,1575,{'category': 'Online adult entertainment'},Online adult entertainment,0,ss/Shopify.png
+global.jd.com,Direct Sales,scrape_files_final/Direct Sales/global_jd_com.txt,6644,zh-cn,3505,"{
+  ""category"": ""E-commerce""
+}",E-commerce,0,ss/global.png
+target.com,Direct Sales,scrape_files_final/Direct Sales/target_com.txt,7501,en,2502,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/target.png
+overstock.com,Direct Sales,scrape_files_final/Direct Sales/overstock_com.txt,10571,en,3134,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/overstock.png
+bestbuy.ca,Direct Sales,scrape_files_final/Direct Sales/bestbuy_ca.txt,6067,en,1801,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/bestbuy.png
+mercadolibre.com.co/#from=homecom,Direct Sales,scrape_files_final/Direct Sales/mercadolibre_com_co__#from=homecom.txt,8644,es,3339,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/mercadolibre.png
+lazada.com,Other,scrape_files_final/Other/lazada_com.txt,1711,en,696,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/lazada.png
+stackoverflow.com,Other,scrape_files_final/Other/stackoverflow_com.txt,3835,en,1069,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/stackoverflow.png
+discord.com,Other,scrape_files_final/Other/discord_com.txt,5699,en,1698,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""pharmacy""],
+        ""Firearms"": [""firearms"", ""guns""],
+        ""Charity"": [""non-profit"", ""donation"", ""fundraising""],
+        ""Cryptocurrency"": [""Bitcoin"", ""digital currency""],
+        ""Gambling"": [""gambling"", ""betting""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis""],
+        ""Massage parlors"": [""massage"", ""spa""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call center""],
+        ""Direct Sales"": [""direct sales"", ""eCommerce""]
+    }",Information Not Enough,0,ss/discord.png
+github.com,Other,scrape_files_final/Other/github_com.txt,6456,en,1718,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/github.png
+tumblr.com,Other,scrape_files_final/Other/tumblr_com.txt,2062,en,842,"{
+  ""category"": ""Other""
+}",Other,1,ss/tumblr.png
+producthunt.com,Other,scrape_files_final/Other/producthunt_com.txt,9093,en,2536,"{
+  ""category"": ""Other""
+}",Other,1,ss/producthunt.png
+xda-developers.com,Other,scrape_files_final/Other/xda-developers_com.txt,9158,en,2478,"{
+  ""category"": ""Other""
+}",Other,1,ss/xda-developers.png
+forums.digitalspy.com,Other,scrape_files_final/Other/forums_digitalspy_com.txt,12374,en,3745,"{
+  ""category"": ""Entertainment""
+}",Entertainment,0,ss/forums.png
+gamespot.com,Other,scrape_files_final/Other/gamespot_com.txt,11283,en,3129,"{
+  'category': 'Gambling'
+}",Gambling,0,ss/gamespot.png
+mumsnet.com,Other,scrape_files_final/Other/mumsnet_com.txt,12435,en,3692,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/mumsnet.png
+thestudentroom.co.uk,Other,scrape_files_final/Other/thestudentroom_co_uk.txt,7714,en,2188,"{
+  ""category"": ""Education""
+}",Education,0,ss/thestudentroom.png
+forums.macrumors.com,Other,scrape_files_final/Other/forums_macrumors_com.txt,13712,en,4697,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/forums.png
+boardgamegeek.com,Other,scrape_files_final/Other/boardgamegeek_com.txt,15536,en,4269,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/boardgamegeek.png
+chegg.com,Other,scrape_files_final/Other/chegg_com.txt,5177,en,1492,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/chegg.png
+bbc.com,Other,scrape_files_final/Other/bbc_com.txt,12965,en,3352,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""pharmacy""],
+        ""Firearms"": [""firearms"", ""guns""],
+        ""Charity"": [""non-profit"", ""donation"", ""fundraising""],
+        ""Cryptocurrency"": [""Bitcoin"", ""digital currency"", ""cryptocurrency""],
+        ""Gambling"": [""gambling"", ""casino"", ""betting""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""weed""],
+        ""Massage parlors"": [""massage"", ""spa"", ""relaxation""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call center""],
+        ""Direct Sales"": [""direct sales"", ""eCommerce"", ""sales representative""],
+        ""Other"": [""other""],
+        ""Information Not Enough"": [""insufficient information""]
+    }",Information Not Enough,0,ss/bbc.png
+nytimes.com,Other,scrape_files_final/Other/nytimes_com.txt,16102,en,4152,"{
+  ""category"": ""News""
+}",News,0,ss/nytimes.png
+theguardian.com,Other,scrape_files_final/Other/theguardian_com.txt,16348,en,4147,"{
+  ""category"": ""News""
+}",News,0,ss/theguardian.png
+foxnews.com,Other,scrape_files_final/Other/foxnews_com.txt,22574,en,5691,"{
+  'category': 'News'
+}",News,0,ss/foxnews.png
+aljazeera.com,Other,scrape_files_final/Other/aljazeera_com.txt,6893,en,1859,"{
+  ""category"": ""News""
+}",News,0,ss/aljazeera.png
+nbcnews.com,Other,scrape_files_final/Other/nbcnews_com.txt,31520,en,7528,"{
+  'category': 'News'
+}",News,0,ss/nbcnews.png
+washingtonpost.com,Other,scrape_files_final/Other/washingtonpost_com.txt,12440,en,3082,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""pharmacy""],
+        ""Firearms"": [""firearms"", ""guns""],
+        ""Charity"": [""non-profit"", ""donation"", ""fundraising""],
+        ""Cryptocurrency"": [""Bitcoin"", ""digital currency""],
+        ""Gambling"": [""gambling"", ""casino"", ""betting""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""weed""],
+        ""Massage parlors"": [""massage"", ""spa""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call center""],
+        ""Direct Sales"": [""direct sales"", ""eCommerce"", ""sales representative""]
+    }",Information Not Enough,0,ss/washingtonpost.png
+news.yahoo.com,Other,scrape_files_final/Other/news_yahoo_com.txt,24280,en,5943,{'category': 'News'},News,0,ss/news.png
+apnews.com,Other,scrape_files_final/Other/apnews_com.txt,53869,en,"[12248, 4009]","{
+  'category': 'News'
+}",News,0,ss/apnews.png
+news.sky.com,Other,scrape_files_final/Other/news_sky_com.txt,9314,en,2505,"{
+  ""category"": ""News""
+}",News,0,ss/news.png
+france24.com/en/,Other,scrape_files_final/Other/france24_com__en__.txt,7659,en,2058,"{
+  ""category"": ""News""
+}",News,0,ss/france24.png
+huffpost.com,Other,scrape_files_final/Other/huffpost_com.txt,18110,en,4378,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""sexually explicit content"", ""pornography""],
+        ""Online pharmacies"": [""prescription medications""],
+        ""Firearms"": [""access firearms""],
+        ""Charity"": [""non-profit organization"", ""raise funds"", ""services"", ""cause"", ""donation options""],
+        ""Cryptocurrency"": [""digital currencies"", ""Bitcoin"", ""alternative""],
+        ""Gambling"": [""gambling activities""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""cultivation"", ""production"", ""distribution"", ""sales""],
+        ""Massage parlors"": [""massage"", ""spa services""],
+        ""Telemarketing Call centers"": [""telemarketing services"", ""call centers""],
+        ""Direct Sales"": [""selling products directly to consumers"", ""eCommerce"", ""independent sales representatives""],
+        ""Other"": [""other""],
+        ""Information Not Enough"": [""insufficient information""]
+    }",Information Not Enough,0,ss/huffpost.png
+independent.co.uk,Other,scrape_files_final/Other/independent_co_uk.txt,15115,en,3755,"{
+  ""category"": ""News""
+}",News,0,ss/independent.png
+khanacademy.org,Other,scrape_files_final/Other/khanacademy_org.txt,8013,en,2212,"{
+  ""category"": ""Charity""
+}",Charity,0,ss/khanacademy.png
+coursera.org,Other,scrape_files_final/Other/coursera_org.txt,9748,en,2333,"{
+  'category': 'Education'
+}",Education,0,ss/coursera.png
+edx.org,Other,scrape_files_final/Other/edx_org.txt,12426,en,2891,"{
+  'category': 'Education'
+}",Education,0,ss/edx.png
+duolingo.com,Other,scrape_files_final/Other/duolingo_com.txt,3100,en,1095,"{
+  ""category"": ""Education""
+}",Education,0,ss/duolingo.png
+ed.ted.com,Other,scrape_files_final/Other/ed_ted_com.txt,8482,en,2221,"{
+  'category': 'Charity'
+}",Charity,0,ss/ed.png
+scholar.google.com,Other,scrape_files_final/Other/scholar_google_com.txt,1291,en,700,"{
+  ""category"": ""Other""
+}",Other,1,ss/scholar.png
+open.ac.uk,Other,scrape_files_final/Other/open_ac_uk.txt,10070,en,2244,"{
+  ""category"": ""Charity""
+}",Charity,0,ss/open.png
+futurelearn.com,Other,scrape_files_final/Other/futurelearn_com.txt,12999,en,2919,{'category': category},Other,1,ss/futurelearn.png
+ocw.mit.edu,Other,scrape_files_final/Other/ocw_mit_edu.txt,22686,en,6385,"{
+  'category': 'Charity'
+}",Charity,0,ss/ocw.png
+education.nationalgeographic.org,Other,scrape_files_final/Other/education_nationalgeographic_org.txt,5034,en,1589,"{
+  'category': 'Charity'
+}",Charity,0,ss/education.png
+pbslearningmedia.org,Other,scrape_files_final/Other/pbslearningmedia_org.txt,4022,en,1220,"{
+  'category': 'Charity'
+}",Charity,0,ss/pbslearningmedia.png
+codecademy.com,Other,scrape_files_final/Other/codecademy_com.txt,19159,en,4629,"{
+  ""category"": ""Education""
+}",Education,0,ss/codecademy.png
+linkedin.com,Other,scrape_files_final/Other/linkedin_com.txt,5372,en,1597,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/linkedin.png
+bigthink.com,Other,scrape_files_final/Other/bigthink_com.txt,8086,en,2114,"{
+  ""category"": ""Other""
+}",Other,1,ss/bigthink.png
+techcrunch.com,Other,scrape_files_final/Other/techcrunch_com.txt,8317,en,2162,"{
+  ""category"": ""Other""
+}",Other,1,ss/techcrunch.png
+wired.com,Other,scrape_files_final/Other/wired_com.txt,7805,en,2136,"{
+  'category': 'Information Not Enough'
+}",Information Not Enough,0,
+theverge.com,Other,scrape_files_final/Other/theverge_com.txt,18058,en,4725,"{
+  ""category"": ""News/Media""
+}",News/Media,0,ss/theverge.png
+cnet.com,Other,scrape_files_final/Other/cnet_com.txt,19311,en,5448,"{
+  'category': 'Product Reviews and News'
+}",Product Reviews and News,0,ss/cnet.png
+arstechnica.com,Other,scrape_files_final/Other/arstechnica_com.txt,8261,en,2515,"{
+  ""category"": ""Other""
+}",Other,1,ss/arstechnica.png
+engadget.com,Other,scrape_files_final/Other/engadget_com.txt,7458,en,2268,"{
+  'category': 'Other'
+}",Other,1,ss/engadget.png
+gizmodo.com,Other,scrape_files_final/Other/gizmodo_com.txt,9018,en,2623,"{
+  ""category"": ""Other""
+}",Other,1,ss/gizmodo.png
+zdnet.com,Other,scrape_files_final/Other/zdnet_com.txt,11397,en,2966,"{
+        ""Cyberlockers"": [""file storage"", ""file sharing""],
+        ""Online adult entertainment"": [""pornography"", ""sexually explicit content""],
+        ""Online pharmacies"": [""prescription medications"", ""pharmacy""],
+        ""Firearms"": [""firearms"", ""guns""],
+        ""Charity"": [""non-profit"", ""donation"", ""fundraising""],
+        ""Cryptocurrency"": [""Bitcoin"", ""digital currency""],
+        ""Gambling"": [""gambling"", ""casino"", ""betting""],
+        ""Marijuana-related businesses"": [""marijuana"", ""cannabis"", ""weed""],
+        ""Massage parlors"": [""massage"", ""spa""],
+        ""Telemarketing Call centers"": [""telemarketing"", ""call center""],
+        ""Direct Sales"": [""direct sales"", ""eCommerce"", ""sales representative""]
+    }",Information Not Enough,0,ss/zdnet.png
+mashable.com,Other,scrape_files_final/Other/mashable_com.txt,12246,en,3515,"{
+  'category': 'Other'
+}",Other,1,ss/mashable.png
+digitaltrends.com,Other,scrape_files_final/Other/digitaltrends_com.txt,19206,en,4906,"{
+  'category': 'Best Products'
+}",Best Products,0,ss/digitaltrends.png
+tomshardware.com,Other,scrape_files_final/Other/tomshardware_com.txt,13599,en,3705,"{
+  ""category"": ""Other""
+}",Other,1,ss/tomshardware.png
+anandtech.com,Other,scrape_files_final/Other/anandtech_com.txt,14729,en,4433,"{
+  ""category"": ""Technology/Computer Hardware""
+}",Technology/Computer Hardware,0,ss/anandtech.png
+9to5mac.com,Other,scrape_files_final/Other/9to5mac_com.txt,20536,en,5700,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/9to5mac.png
+macrumors.com,Other,scrape_files_final/Other/macrumors_com.txt,93290,en,"[21840, 7112]","{
+  'category': 'News and Media'
+}",News and Media,0,ss/macrumors.png
+howtogeek.com,Other,scrape_files_final/Other/howtogeek_com.txt,7600,en,2198,"{
+  ""category"": ""Other""
+}",Other,1,ss/howtogeek.png
+slashdot.org,Other,scrape_files_final/Other/slashdot_org.txt,27033,en,6306,"{
+  ""category"": ""News""
+}",News,0,ss/slashdot.png
+techradar.com,Other,scrape_files_final/Other/techradar_com.txt,27258,en,6581,"{
+  ""category"": ""Other""
+}",Other,1,ss/techradar.png
+venturebeat.com,Other,scrape_files_final/Other/venturebeat_com.txt,6668,en,2127,"{
+  'category': 'Other'
+}",Other,1,ss/venturebeat.png
+hotfile.one,Cyberlockers,scrape_files_final/Cyberlockers/hotfile_one.txt,3962,en,1174,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/hotfile.png
+1024terabox.com,Cyberlockers,scrape_files_final/Cyberlockers/1024terabox_com.txt,3764,en,1222,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/1024terabox.png
+callhub.io,Telemarketing Call centers,scrape_files_final/Telemarketing and Call Centers/callhub_io.txt,13230,en,2658,{'category': 'Telemarketing Call centers'},Telemarketing Call centers,1,ss/callhub.png
+vanillasoft.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call Centers/vanillasoft_com.txt,32965,en,7709,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/vanillasoft.png
+phoneburner.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call Centers/phoneburner_com.txt,4429,en,1293,"{
+  ""category"": ""Telemarketing Call centers""
+}",Telemarketing Call centers,1,ss/phoneburner.png
+hubspot.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call Centers/hubspot_com.txt,13427,en,3131,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/hubspot.png
+amazon.com,Direct Sales,scrape_files_final/Direct Sales/amazon_com.txt,5605,en,1656,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/amazon.png
+ebay.com,Direct Sales,scrape_files_final/Direct Sales/ebay_com.txt,6477,en,1902,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/ebay.png
+rakuten.com,Other,scrape_files_final/Other/rakuten_com.txt,3503,en,1213,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/rakuten.png
+bonanza.com,Direct Sales,scrape_files_final/Direct Sales/bonanza_com.txt,6831,en,2176,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/bonanza.png
+poshmark.com,Direct Sales,scrape_files_final/Direct Sales/poshmark_com.txt,6337,en,2031,{'category': 'Direct Sales'},Direct Sales,1,ss/poshmark.png
+letgo.com,Direct Sales,scrape_files_final/Direct Sales/letgo_com.txt,10403,tr,4763,"{
+  'category': 'Online Marketplace'
+}",Online Marketplace,0,ss/letgo.png
+delhi.craigslist.org,Other,scrape_files_final/Other/delhi_craigslist_org.txt,4006,en,1646,"{
+  ""category"": ""Other""
+}",Other,1,ss/delhi.png
+mercari.com,Direct Sales,scrape_files_final/Direct Sales/mercari_com.txt,2140,en,1137,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/mercari.png
+alibaba.com,Direct Sales,scrape_files_final/Direct Sales/alibaba_com.txt,9109,en,2248,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/alibaba.png
+gumtree.com,Direct Sales,scrape_files_final/Direct Sales/gumtree_com.txt,10422,en,3440,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/gumtree.png
+wap.chinagoods.com,Direct Sales,scrape_files_final/Direct Sales/wap_chinagoods_com.txt,7012,en,1778,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/wap.png
+cafepress.com,Direct Sales,scrape_files_final/Direct Sales/cafepress_com.txt,24213,en,6978,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/cafepress.png
+storenvy.com,Direct Sales,scrape_files_final/Direct Sales/storenvy_com.txt,4506,en,1564,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/storenvy.png
+bigcartel.com,Direct Sales,scrape_files_final/Direct Sales/bigcartel_com.txt,2445,en,826,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/bigcartel.png
+vinted.com,Direct Sales,scrape_files_final/Direct Sales/vinted_com.txt,20844,en,5316,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/vinted.png
+stockx.com,Direct Sales,scrape_files_final/Direct Sales/stockx_com.txt,14305,en,4833,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/stockx.png
+saatchiart.com,Other,scrape_files_final/Other/saatchiart_com.txt,9382,en,2520,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/saatchiart.png
+society6.com,Direct Sales,scrape_files_final/Direct Sales/society6_com.txt,11106,en,3040,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/society6.png
+madeit.com,Other,scrape_files_final/Other/madeit_com.txt,1364,en,538,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/madeit.png
+gumroad.com,Direct Sales,scrape_files_final/Direct Sales/gumroad_com.txt,3863,en,1560,"{
+        'Cyberlockers': ['file storage', 'file sharing'],
+        'Online adult entertainment': ['pornography', 'sexually explicit content'],
+        'Online pharmacies': ['prescription medications'],
+        'Firearms': ['access firearms'],
+        'Charity': ['non-profit', 'fundraising', 'donation'],
+        'Cryptocurrency': ['Bitcoin', 'digital currencies'],
+        'Gambling': ['gambling activities'],
+        'Marijuana-related businesses': ['marijuana', 'cannabis', 'cultivation', 'production', 'distribution', 'sales'],
+        'Massage parlors': ['massage', 'spa services'],
+        'Telemarketing Call centers': ['telemarketing', 'call centers'],
+        'Direct Sales': ['direct sales', 'eCommerce', 'independent sales representatives']
+    }",Information Not Enough,0,ss/gumroad.png
+fineartamerica.com,Direct Sales,scrape_files_final/Direct Sales/fineartamerica_com.txt,15537,en,4353,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/fineartamerica.png
+usana.com/ux/dotcom/enu-US/home,Direct Sales,scrape_files_final/Direct Sales/usana_com__ux__dotcom__enu-US__home.txt,9122,en,2297,{'category': 'Direct Sales'},Direct Sales,1,ss/usana.png
+plexusworldwide.com,Direct Sales,scrape_files_final/Direct Sales/plexusworldwide_com.txt,4718,en,1316,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/plexusworldwide.png
+zurvita.com,Direct Sales,scrape_files_final/Direct Sales/zurvita_com.txt,4762,en,1369,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/zurvita.png
+purehaven.com,Direct Sales,scrape_files_final/Direct Sales/purehaven_com.txt,2047,en,718,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/purehaven.png
+thebodyshop.com,Direct Sales,scrape_files_final/Direct Sales/thebodyshop_com.txt,6761,en,2119,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/thebodyshop.png
+xyngular.com,Direct Sales,scrape_files_final/Direct Sales/xyngular_com.txt,2401,en,849,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/xyngular.png
+acn.com,Other,scrape_files_final/Other/acn_com.txt,3367,en,1027,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/acn.png
+sisel.net,Direct Sales,scrape_files_final/Direct Sales/sisel_net.txt,2704,en,1091,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/sisel.png
+healthplus.flipkart.com,Online Pharmacies,scrape_files_final/Online Pharmacies/healthplus_flipkart_com.txt,0,,253,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,
+onlinepharmacywithoutaprescription.ru,Online Pharmacies,scrape_files_final/Online Pharmacies/onlinepharmacywithoutaprescription_ru.txt,132,en,285,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/onlinepharmacywithoutaprescription.png
+buyingantibioticsonline.ru,Online Pharmacies,scrape_files_final/Online Pharmacies/buyingantibioticsonline_ru.txt,64,en,274,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/buyingantibioticsonline.png
+skypharmacyreview.com,Online Pharmacies,scrape_files_final/Online Pharmacies/skypharmacyreview_com.txt,89,en,274,"{
+  ""category"": ""Online pharmacies""
+}",Online pharmacies,1,ss/skypharmacyreview.png
+TLARELEASING.com,Online adult entertainment,scrape_files_final/Online adult entertainment/TLARELEASING_com.txt,986,en,486,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/TLARELEASING.png
+teamskeet.com,Online adult entertainment,scrape_files_final/Online adult entertainment/teamskeet_com.txt,8890,en,2648,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/teamskeet.png
+stream-leak.com,Online adult entertainment,scrape_files_final/Online adult entertainment/stream-leak_com.txt,5292,en,2027,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/stream-leak.png
+cam4.com,Online adult entertainment,scrape_files_final/Online adult entertainment/cam4_com.txt,10737,en,3460,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/cam4.png
+webcamrecordings.com,Online adult entertainment,scrape_files_final/Online adult entertainment/webcamrecordings_com.txt,12926,en,4850,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/webcamrecordings.png
+livecamrips.com,Online adult entertainment,scrape_files_final/Online adult entertainment/livecamrips_com.txt,7501,en,3419,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/livecamrips.png
+camshowsrecorded.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camshowsrecorded_com.txt,547,en,395,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camshowsrecorded.png
+livejasmin.com,Online adult entertainment,scrape_files_final/Online adult entertainment/livejasmin_com.txt,5831,en,1926,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/livejasmin.png
+camwh.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camwh_com.txt,4917,en,1947,"{
+  'category': 'Online adult entertainment'
+}",Online adult entertainment,1,ss/camwh.png
+live24cams.com,Online adult entertainment,scrape_files_final/Online adult entertainment/live24cams_com.txt,1431,en,731,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/live24cams.png
+chaturflix.cam,Online adult entertainment,scrape_files_final/Online adult entertainment/chaturflix_cam.txt,2767,en,1375,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/chaturflix.png
+rabbitscams.sex,Online adult entertainment,scrape_files_final/Online adult entertainment/rabbitscams_sex.txt,8390,en,2415,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/rabbitscams.png
+camsfinder.com,Online adult entertainment,scrape_files_final/Online adult entertainment/camsfinder_com.txt,9643,en,2817,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/camsfinder.png
+uncams.com,Online adult entertainment,scrape_files_final/Online adult entertainment/uncams_com.txt,2451,en,1157,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/uncams.png
+camwhorez.tv,Online adult entertainment,scrape_files_final/Online adult entertainment/camwhorez_tv.txt,8392,en,3458,{'category': 'Online adult entertainment'},Online adult entertainment,1,ss/camwhorez.png
+1pondo.com,Online adult entertainment,scrape_files_final/Online adult entertainment/1pondo_com.txt,4510,en,2265,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/1pondo.png
+spaeliamontgomery.com,Massage Parlors,scrape_files_final/Massage Parlors/spaeliamontgomery_com.txt,153,en,284,"{
+  ""category"": ""Information Not Enough""
+}",Information Not Enough,0,ss/spaeliamontgomery.png
+180spa.com,Massage Parlors,scrape_files_final/Massage Parlors/180spa_com.txt,840,en,457,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/180spa.png
+camelbackspa.com,Massage Parlors,scrape_files_final/Massage Parlors/camelbackspa_com.txt,3541,en,1015,"{
+  ""category"": ""Massage parlors""
+}",Massage parlors,1,ss/camelbackspa.png
+eastofedencannabisco.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/eastofedencannabisco_com.txt,683,en,449,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/eastofedencannabisco.png
+cvalt.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/cvalt_com.txt,775,en,417,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/cvalt.png
+cannaklub.co,Marijuana related businesses,scrape_files_final/Marijuana related businesses/cannaklub_co.txt,999,en,566,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/cannaklub.png
+cornerstonecollective.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/cornerstonecollective_com.txt,19539,en,4638,"{
+  'category': 'Marijuana - related businesses'
+}",Marijuana related businesses,1,ss/cornerstonecollective.png
+euphoriavt.com,Marijuana related businesses,scrape_files_final/Marijuana related businesses/euphoriavt_com.txt,907,en,480,"{
+  ""category"": ""Marijuana - related businesses""
+}",Marijuana related businesses,1,ss/euphoriavt.png
+WILDFORTUNE.IO,Gambling,scrape_files_final/Gambling/WILDFORTUNE_IO.txt,1013,en,539,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/WILDFORTUNE.png
+ROXCASINO.COM,Gambling,scrape_files_final/Gambling/ROXCASINO_COM.txt,25934,ru,"[8332, 6271]","{
+  'category': 'Gambling'
+}",Gambling,1,ss/ROXCASINO.png
+casinoinfinity.com,Gambling,scrape_files_final/Gambling/casinoinfinity_com.txt,8509,en,2637,"{
+  'category': 'Gambling'
+}",Gambling,1,ss/casinoinfinity.png
+casombie.com,Gambling,scrape_files_final/Gambling/casombie_com.txt,14776,en,3885,{'category': 'Gambling'},Gambling,1,ss/casombie.png
+cazimbo.com,Gambling,scrape_files_final/Gambling/cazimbo_com.txt,13690,en,4180,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/cazimbo.png
+LUCKYWINS.COM,Gambling,scrape_files_final/Gambling/LUCKYWINS_COM.txt,21985,en,7145,{'category': 'Gambling'},Gambling,1,ss/LUCKYWINS.png
+dollycasino.com,Gambling,scrape_files_final/Gambling/dollycasino_com.txt,6444,en,1996,{'category': 'Gambling'},Gambling,1,ss/dollycasino.png
+excitewin.com,Gambling,scrape_files_final/Gambling/excitewin_com.txt,7624,en,2279,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/excitewin.png
+greatwin-1562.com,Gambling,scrape_files_final/Gambling/greatwin-1562_com.txt,10693,en,3543,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/greatwin-1562.png
+mrpacho1.com,Gambling,scrape_files_final/Gambling/mrpacho1_com.txt,6994,en,2263,"{
+  ""category"": ""Gambling""
+}",Gambling,1,ss/mrpacho1.png
+amsterdamsescorts.com,Online adult entertainment,scrape_files_final/Escort services/amsterdamsescorts_com.txt,97,en,284,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,
+passionescorts.nl,Online adult entertainment,scrape_files_final/Escort services/passionescorts_nl.txt,13678,nl,3928,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/passionescorts.png
+mumbaipearls.com,Online adult entertainment,scrape_files_final/Escort services/mumbaipearls_com.txt,9346,zh-cn,4313,"{
+  ""category"": ""Information Not Enough""
+}",Information Not Enough,0,ss/mumbaipearls.png
+sophienne.com,Online adult entertainment,scrape_files_final/Escort services/sophienne_com.txt,10861,en,2591,"{
+    'category': 'Direct Sales'
+}",Direct Sales,0,ss/sophienne.png
+melizsalee.com,Online adult entertainment,scrape_files_final/Escort services/melizsalee_com.txt,976,en,448,"{
+  ""category"": ""Information Not Enough""
+}",Information Not Enough,0,ss/melizsalee.png
+simpleescorts.in,Online adult entertainment,scrape_files_final/Escort services/simpleescorts_in.txt,2075,en,783,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/simpleescorts.png
+roksolana.nl,Direct Sales,scrape_files_final/Escort services/roksolana_nl.txt,530,nl,446,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/roksolana.png
+hottpages.com,Online adult entertainment,scrape_files_final/Escort services/hottpages_com.txt,10817,en,2597,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/hottpages.png
+budapest-babes-escort.com,Online adult entertainment,scrape_files_final/Escort services/budapest-babes-escort_com.txt,791,en,434,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/budapest-babes-escort.png
+priyathakur.co.in,Other,scrape_files_final/Other/priyathakur_co_in.txt,132,en,298,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/priyathakur.png
+filefactory.com,Cyberlockers,scrape_files_final/Cyberlockers/filefactory_com.txt,4135,en,1130,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/filefactory.png
+depositfiles.com,Cyberlockers,scrape_files_final/Cyberlockers/depositfiles_com.txt,2078,en,706,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/depositfiles.png
+zippyshare.com,Cyberlockers,scrape_files_final/Cyberlockers/zippyshare_com.txt,964,en,460,"{
+    ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/zippyshare.png
+sendspace.com,Cyberlockers,scrape_files_final/Cyberlockers/sendspace_com.txt,1966,en,694,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/sendspace.png
+fboom.me,Cyberlockers,scrape_files_final/Cyberlockers/fboom_me.txt,569,en,372,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/fboom.png
+emload.com,Cyberlockers,scrape_files_final/Cyberlockers/emload_com.txt,912,en,501,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/emload.png
+file.al,Cyberlockers,scrape_files_final/Cyberlockers/file_al.txt,950,en,485,"{
+    ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/file.png
+cloud.mail.ru,Cyberlockers,scrape_files_final/Cyberlockers/cloud_mail_ru.txt,8613,ru,2600,"{
+  ""category"": ""Cyberlockers""
+}",Cyberlockers,1,ss/cloud.png
+btcmarkets.net,Cryptocurrency,scrape_files_final/Cryptocurrency/btcmarkets_net.txt,4145,en,1282,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/btcmarkets.png
+coinbase.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinbase_com.txt,5287,en,1435,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coinbase.png
+gemini.com,Cryptocurrency,scrape_files_final/Cryptocurrency/gemini_com.txt,6627,en,1707,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/gemini.png
+coinhako.com,Cryptocurrency,scrape_files_final/Cryptocurrency/coinhako_com.txt,6805,en,1921,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/coinhako.png
+zebpay.com,Cryptocurrency,scrape_files_final/Cryptocurrency/zebpay_com.txt,48010,en,"[19940, 13371]","{
+    'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/zebpay.png
+coins.ph,Cryptocurrency,scrape_files_final/Cryptocurrency/coins_ph.txt,3709,en,1048,"{
+    'category': 'Cryptocurrency'
+}",Cryptocurrency,1,ss/coins.png
+kucoin.com,Cryptocurrency,scrape_files_final/Cryptocurrency/kucoin_com.txt,6076,en,1732,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/kucoin.png
+poloniex.com,Cryptocurrency,scrape_files_final/Cryptocurrency/poloniex_com.txt,4796,en,1719,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/poloniex.png
+uniswap.org,Cryptocurrency,scrape_files_final/Cryptocurrency/uniswap_org.txt,3005,en,1317,"{
+  ""category"": ""Cryptocurrency""
+}",Cryptocurrency,1,ss/uniswap.png
+v2ph.com,Online adult entertainment,scrape_files_final/Child porn/v2ph_com.txt,3734,en,1463,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/v2ph.png
+behoimi.org,Online adult entertainment,scrape_files_final/Child porn/behoimi_org.txt,130,en,291,"{
+  ""category"": ""Online adult entertainment""
+}",Online adult entertainment,1,ss/behoimi.png
+onionlandsearchengine.net,Online adult entertainment,scrape_files_final/Child porn/onionlandsearchengine_net.txt,1284,en,618,{'category': 'Other'},Other,0,ss/onionlandsearchengine.png
+savethechildren.net,Charity,scrape_files_final/Charity/savethechildren_net.txt,12252,en,4177,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/savethechildren.png
+globalgiving.org,Charity,scrape_files_final/Charity/globalgiving_org.txt,8095,en,1989,"{
+  'category': 'Charity'
+}",Charity,1,
+kiva.org,Charity,scrape_files_final/Charity/kiva_org.txt,6369,en,1651,"{
+  'category': 'Charity'
+}",Charity,1,ss/kiva.png
+worldwildlife.org,Charity,scrape_files_final/Charity/worldwildlife_org.txt,10085,en,2360,"{
+    'category': 'Charity'
+}",Charity,1,ss/worldwildlife.png
+friendshipbridge.org,Charity,scrape_files_final/Charity/friendshipbridge_org.txt,1584,en,618,"{
+  ""category"": ""Charity""
+}",Charity,1,ss/friendshipbridge.png
+winchester.com,Firearms,scrape_files_final/Firearms/winchester_com.txt,8794,en,2217,"{
+    'category': 'Firearms'
+}",Firearms,1,ss/winchester.png
+danieldefense.com,Firearms,scrape_files_final/Firearms/danieldefense_com.txt,9126,en,2302,"{
+    'category': 'Firearms'
+}",Firearms,1,ss/danieldefense.png
+kimberamerica.com,Firearms,scrape_files_final/Firearms/kimberamerica_com.txt,2561,en,1138,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/kimberamerica.png
+barrett.net,Firearms,scrape_files_final/Firearms/barrett_net.txt,5814,en,1588,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/barrett.png
+steyr-arms.com,Firearms,scrape_files_final/Firearms/steyr-arms_com.txt,136,en,290,"{
+    'category': 'Firearms'
+}",Firearms,1,
+stoegerindustries.com,Firearms,scrape_files_final/Firearms/stoegerindustries_com.txt,8656,en,2523,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/stoegerindustries.png
+sako.fi,Firearms,scrape_files_final/Firearms/sako_fi.txt,6585,en,1633,"{
+    'category': 'Firearms'
+}",Firearms,1,ss/sako.png
+brownells.at,Firearms,scrape_files_final/Firearms/brownells_at.txt,41450,de,"[13163, 6839]",{'category': 'Firearms'},Firearms,1,ss/brownells.png
+classicfirearms.com,Firearms,scrape_files_final/Firearms/classicfirearms_com.txt,627,en,401,"{
+  'category': 'Firearms'
+}",Firearms,1,ss/classicfirearms.png
+aimpoint.com,Firearms,scrape_files_final/Firearms/aimpoint_com.txt,15872,en,4115,{'category': 'Firearms'},Firearms,1,ss/aimpoint.png
+bravocompanyusa.com,Firearms,scrape_files_final/Firearms/bravocompanyusa_com.txt,538,en,400,"{
+  ""category"": ""Information Not Enough""
+}",Information Not Enough,0,ss/bravocompanyusa.png
+larue.com,Firearms,scrape_files_final/Firearms/larue_com.txt,5740,en,1911,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/larue.png
+andersonmanufacturing.com,Firearms,scrape_files_final/Firearms/andersonmanufacturing_com.txt,2747,en,1071,"{
+  ""category"": ""Firearms""
+}",Firearms,1,ss/andersonmanufacturing.png
+teleperformance.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/teleperformance_com.txt,41420,en,"[9509, 3052]","{
+  'category': 'Telemarketing Call centers'
+}",Telemarketing Call centers,1,ss/teleperformance.png
+alldaypa.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/alldaypa_com.txt,360,en,330,{'category': 'Online pharmacies'},Online pharmacies,0,ss/alldaypa.png
+horizoncontactcenters.com,Telemarketing Call centers,scrape_files_final/Telemarketing and Call centers/horizoncontactcenters_com.txt,0,,252,{'category': 'Telemarketing Call centers'},Telemarketing Call centers,1,ss/horizoncontactcenters.png
+zalando.at,Direct Sales,scrape_files_final/Direct Sales/zalando_at.txt,6036,de,2085,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/zalando.png
+walmart.com,Direct Sales,scrape_files_final/Direct Sales/walmart_com.txt,1938,en,739,"{
+    'category': 'Direct Sales'
+}",Direct Sales,1,ss/walmart.png
+wayfair.com,Direct Sales,scrape_files_final/Direct Sales/wayfair_com.txt,16287,en,4473,"{
+    'category': 'Online Retail'
+}",Online Retail,0,
+newegg.com,Direct Sales,scrape_files_final/Direct Sales/newegg_com.txt,83082,en,"[20989, 7199]","{
+  ""category"": ""Electronics Store""
+}",Electronics Store,0,ss/newegg.png
+asos.com,Direct Sales,scrape_files_final/Direct Sales/asos_com.txt,11816,en,3588,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/asos.png
+reddit.com,Other,scrape_files_final/Other/reddit_com.txt,5411,en,1810,"{
+  'category': 'Other'
+}",Other,1,ss/reddit.png
+quora.com,Other,scrape_files_final/Other/quora_com.txt,612,en,398,"{
+  ""category"": ""Other""
+}",Other,1,ss/quora.png
+medium.com,Other,scrape_files_final/Other/medium_com.txt,303,en,323,"{
+  ""category"": ""Other""
+}",Other,1,ss/medium.png
+tripadvisor.com,Other,scrape_files_final/Other/tripadvisor_com.txt,3701,en,1215,{'category': 'Travel'},Travel,0,ss/tripadvisor.png
+avsforum.com,Other,scrape_files_final/Other/avsforum_com.txt,6567,en,2213,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/avsforum.png
+cnn.com,Other,scrape_files_final/Other/cnn_com.txt,15104,en,3750,"{
+    'category': 'News'
+}",News,0,ss/cnn.png
+reuters.com,Other,scrape_files_final/Other/reuters_com.txt,15554,en,4003,"{
+    'category': 'News Agency'
+}",News Agency,0,ss/reuters.png
+bloomberg.com,Other,scrape_files_final/Other/bloomberg_com.txt,15827,en,4035,"{
+  'category': 'News/Media'
+}",News/Media,0,ss/bloomberg.png
+wsj.com,Other,scrape_files_final/Other/wsj_com.txt,23621,en,6036,"{
+    'category': 'News'
+}",News,0,ss/wsj.png
+npr.org,Other,scrape_files_final/Other/npr_org.txt,27466,en,6628,"{
+    'category': 'Charity'
+}",Charity,0,ss/npr.png
+politico.com,Other,scrape_files_final/Other/politico_com.txt,13591,en,3348,{'category': 'Politics'},Politics,0,ss/politico.png
+udemy.com,Other,scrape_files_final/Other/udemy_com.txt,12020,en,2814,"{
+  'category': 'Direct Sales'
+}",Direct Sales,0,ss/udemy.png
+quizlet.com,Other,scrape_files_final/Other/quizlet_com.txt,5092,en,1605,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/quizlet.png
+scholastic.com,Other,scrape_files_final/Other/scholastic_com.txt,6463,en,1948,"{
+    'category': 'Direct Sales'
+}",Direct Sales,0,ss/scholastic.png
+ck12.org,Other,scrape_files_final/Other/ck12_org.txt,5447,en,1894,"{
+  ""category"": ""Charity""
+}",Charity,0,ss/ck12.png
+youtube.com,Other,scrape_files_final/Other/youtube_com.txt,828,en,448,{'category': 'Information Not Enough'},Information Not Enough,0,
+bleepingcomputer.com,Other,scrape_files_final/Other/bleepingcomputer_com.txt,10605,en,2667,"{
+  'category': 'Cryptocurrency'
+}",Cryptocurrency,0,ss/bleepingcomputer.png
+etsy.com,Direct Sales,scrape_files_final/Direct Sales/etsy_com.txt,6911,en,1837,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/etsy.png
+fiverr.com,Other,scrape_files_final/Other/fiverr_com.txt,4693,en,1357,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/fiverr.png
+redbubble.com,Direct Sales,scrape_files_final/Direct Sales/redbubble_com.txt,6941,en,2279,"{
+    'category': 'Direct Sales'
+}",Direct Sales,1,ss/redbubble.png
+zazzle.com,Direct Sales,scrape_files_final/Direct Sales/zazzle_com.txt,1381,en,644,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,
+teespring.com,Other,scrape_files_final/Other/teespring_com.txt,952,en,475,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/teespring.png
+goat.com,Direct Sales,scrape_files_final/Direct Sales/goat_com.txt,11644,en,3702,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/goat.png
+tictail.com,Direct Sales,scrape_files_final/Direct Sales/tictail_com.txt,4343,en,1546,"{
+    ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/tictail.png
+discogs.com,Direct Sales,scrape_files_final/Direct Sales/discogs_com.txt,11688,en,3702,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/discogs.png
+creativemarket.com,Other,scrape_files_final/Other/creativemarket_com.txt,11265,en,3087,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,0,ss/creativemarket.png
+lifevantage.com/au-en/,Direct Sales,scrape_files_final/Direct Sales/lifevantage_com__au-en__.txt,878,en,471,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/lifevantage.png
+isagenix.com,Direct Sales,scrape_files_final/Direct Sales/isagenix_com.txt,10650,en,2715,"{
+    'category': 'Direct Sales'
+}",Direct Sales,1,ss/isagenix.png
+juiceplus.com,Direct Sales,scrape_files_final/Direct Sales/juiceplus_com.txt,6736,en,1857,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/juiceplus.png
+melaleuca.com,Direct Sales,scrape_files_final/Direct Sales/melaleuca_com.txt,4564,en,1394,"{
+  'category': 'Direct Sales'
+}",Direct Sales,1,ss/melaleuca.png
+jeunesseglobal.com,Direct Sales,scrape_files_final/Direct Sales/jeunesseglobal_com.txt,5240,en,1462,"{
+  ""category"": ""Direct Sales""
+}",Direct Sales,1,ss/jeunesseglobal.png
