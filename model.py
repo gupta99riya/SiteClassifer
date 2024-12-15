@@ -50,7 +50,7 @@ def invoke_model(image, prompt,api_key =API_KEY,model_name= MODEL_NAME):
         return extract_category(chat_completion.choices[0].message.content)
     except Exception as e:
         error_string = str(e)
-        if "429" in error_string:
+        if "429" in error_string: # wait for sometime
             error = error_string.split("Please try again")[-1]
             match = re.search(r'(\d+)m(\d+\.\d+)s', error)
 
@@ -62,7 +62,7 @@ def invoke_model(image, prompt,api_key =API_KEY,model_name= MODEL_NAME):
                 total_seconds = minutes * 60 + seconds
                 time.sleep(total_seconds)
                 return invoke_model(image, prompt)
-        elif "400" in error_string:
+        elif "400" in error_string: #image is facing issue 
             chat_completion = client.chat.completions.create(
                     messages=[
                         {

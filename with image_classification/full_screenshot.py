@@ -41,17 +41,22 @@ def take_screenshot(url_name):
         driver.find_element(By.TAG_NAME, 'body').screenshot(path)
         print("Successfully extracted the screenshot of url:", ss_name," start time:",current_time)
         end_time = time.time()
+        driver.save_screenshot(path)
         return path
     except Exception as e:
         print(f"Failed to extract screenshot for {url_name}")
         return None
 
 
-df = pd.read_excel("MC_w_text.xlsx",sheet_name= "Sheet1")
+# df = pd.read_excel("MC_w_text.xlsx",sheet_name= "Sheet1")
 
-df['image_path'] = df['url'].apply(take_screenshot)
-df.to_csv("Main_data.csv",index=False)
-
+url = "canadapharmacymedonline.com"
+# df = pd.DataFrame()
+# df['url'] = url
+# df['image_path'] = df['url'].apply(take_screenshot)
+# df.to_csv("Main_data.csv",index=False)
+image_path = take_screenshot(url)
+print(image_path)
 driver.quit()
 
 
